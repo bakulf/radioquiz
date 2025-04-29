@@ -1,0 +1,2796 @@
+{
+  "questions": [
+    {
+      "question": "Cosa indica 'QRK' nel codice Q?",
+      "options": [
+        "L'intelligibilità dei segnali",
+        "Il livello della batteria",
+        "Il tipo di antenna",
+        "La distanza della stazione"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QRM'?",
+      "options": [
+        "Interferenze causate da altre stazioni",
+        "Rumori naturali",
+        "Cambio di frequenza",
+        "Fine comunicazione"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QRN'?",
+      "options": [
+        "Disturbi atmosferici",
+        "Disturbi di origine elettronica",
+        "Bassa potenza",
+        "Messaggio in arrivo"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QRO' nel codice Q?",
+      "options": [
+        "Aumenta la potenza",
+        "Riduci la potenza",
+        "Cambia frequenza",
+        "Segnale disturbato"
+      ]
+    },
+    {
+      "question": "Cosa significa 'QRP'?",
+      "options": [
+        "Ridurre la potenza di trasmissione",
+        "Aumentare la larghezza di banda",
+        "Cambiare modalità di modulazione",
+        "Passare a comunicazione CW"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QRS'?",
+      "options": [
+        "Trasmettere più lentamente",
+        "Trasmettere più velocemente",
+        "Cambiare frequenza",
+        "Aumentare la potenza"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QRT'?",
+      "options": [
+        "Cessare la trasmissione",
+        "Iniziare la trasmissione",
+        "Chiamare soccorso",
+        "Cambiare canale"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QRV'?",
+      "options": [
+        "Sono pronto",
+        "Ricezione disturbata",
+        "Segnale debole",
+        "Segnale forte"
+      ]
+    },
+    {
+      "question": "Cosa significa 'QRZ'?",
+      "options": [
+        "Chi mi sta chiamando?",
+        "Qual è il tuo QTH?",
+        "Sto per cambiare frequenza",
+        "Sono pronto a comunicare"
+      ]
+    },
+    {
+      "question": "Che cosa significa QSB?",
+      "options": [
+        "Segnale che varia in intensità",
+        "Segnale disturbato da QRM",
+        "Cambio frequenza obbligato",
+        "Fine comunicazione"
+      ]
+    },
+    {
+      "question": "Cosa significa 'QSO'?",
+      "options": [
+        "Contatto radio tra due stazioni",
+        "Segnale disturbato",
+        "Chiamata di soccorso",
+        "Cambio di antenna"
+      ]
+    },
+    {
+      "question": "Qual è il significato di 'QSL' nel codice Q?",
+      "options": [
+        "Ho ricevuto correttamente il tuo messaggio",
+        "Vuoi cambiare frequenza?",
+        "Qual è la tua posizione?",
+        "Disturbi atmosferici"
+      ]
+    },
+    {
+      "question": "Cosa indica 'QSY'?",
+      "options": [
+        "Cambio frequenza",
+        "Cambio potenza",
+        "Inizio comunicazione",
+        "Ricezione disturbata"
+      ]
+    },
+    {
+      "question": "Cosa significa 'QRX'?",
+      "options": [
+        "Attendi un momento",
+        "Cambia modalità",
+        "Ripeti il messaggio",
+        "Segnale molto forte"
+      ]
+    },
+    {
+      "question": "Cosa significa 'QTH' nel codice Q?",
+      "options": [
+        "Il luogo da cui trasmetti",
+        "La potenza del segnale",
+        "La modulazione della voce",
+        "La forza del vento"
+      ]
+    },
+    {
+      "question": "Cosa significa 'AR' nelle abbreviazioni operative?",
+      "options": [
+        "Fine messaggio",
+        "Inizio messaggio",
+        "Cambio frequenza",
+        "Emergenza in corso"
+      ]
+    },
+    {
+      "question": "Cosa indica 'BK' nelle abbreviazioni operative?",
+      "options": [
+        "Interrompi e rispondi subito",
+        "Cambia banda",
+        "Aumenta la potenza",
+        "Invia conferma ricevuta"
+      ]
+    },
+    {
+      "question": "Cosa significa 'CQ'?",
+      "options": [
+        "Chiamata generale a tutte le stazioni",
+        "Segnale di soccorso",
+        "Richiesta di cambio frequenza",
+        "Inizio comunicazione cifrata"
+      ]
+    },
+    {
+      "question": "Cosa significa 'K' nelle abbreviazioni operative?",
+      "options": [
+        "Passo, rispondi tu",
+        "Fine messaggio",
+        "Cambio frequenza",
+        "Ricezione disturbata"
+      ]
+    },
+    {
+      "question": "Cosa indica 'CW' nelle abbreviazioni operative?",
+      "options": [
+        "Comunicazione in telegrafia",
+        "Cambio frequenza",
+        "Chiamata di emergenza",
+        "Fine trasmissione"
+      ]
+    },
+    {
+      "question": "Cosa significa 'MSG' nelle abbreviazioni operative?",
+      "options": [
+        "Messaggio",
+        "Messaggio di emergenza",
+        "Mancato collegamento",
+        "Modulazione standard"
+      ]
+    },
+    {
+      "question": "Cosa significa 'PSE' nelle abbreviazioni operative?",
+      "options": [
+        "Per favore",
+        "Per sicurezza",
+        "Punto di emergenza",
+        "Posizione segnalata"
+      ]
+    },
+    {
+      "question": "Cosa indica 'RST' in un rapporto di segnale?",
+      "options": [
+        "Readability, Signal strength, Tone",
+        "Rapporto di Segnale Telegrafico",
+        "Richiesta Soccorso Telegrafico",
+        "Ricevuto Segnale Totale"
+      ]
+    },
+    {
+      "question": "Cosa indica 'R' nelle abbreviazioni operative?",
+      "options": [
+        "Ricevuto",
+        "Ricevitore",
+        "Ripetitore",
+        "Richiesta di soccorso"
+      ]
+    },
+    {
+      "question": "Cosa significa l'abbreviazione RX?",
+      "options": [
+        "Ricevitore",
+        "Trasmettitore",
+        "Antenna",
+        "Ripetitore"
+      ]
+    },
+    {
+      "question": "Cosa significa l'abbreviazione TX?",
+      "options": [
+        "Trasmettitore",
+        "Ricevitore",
+        "Cambio frequenza",
+        "Messaggio prioritario"
+      ]
+    },
+    {
+      "question": "Cosa indica 'SIG' nelle abbreviazioni operative?",
+      "options": [
+        "Segnale",
+        "Segreto",
+        "Sistema integrato",
+        "Segnalazione"
+      ]
+    },
+    {
+      "question": "Qual è il significato di 'UR' nelle abbreviazioni operative?",
+      "options": [
+        "Tuo/Tua",
+        "Uscita Radio",
+        "Unità Ricevente",
+        "Ultimo Ricevuto"
+      ]
+    },
+
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'A' corrisponde a:",
+      "options": [
+        "Alfa",
+        "Alpha",
+        "Able",
+        "Airport"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'B' corrisponde a:",
+      "options": [
+        "Bravo",
+        "Beta",
+        "Boston",
+        "Bank"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'C' corrisponde a:",
+      "options": [
+        "Charlie",
+        "Canada",
+        "Champion",
+        "Chicago"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'D' corrisponde a:",
+      "options": [
+        "Delta",
+        "Denver",
+        "Dublin",
+        "Dallas"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'E' corrisponde a:",
+      "options": [
+        "Echo",
+        "Eagle",
+        "Edward",
+        "Europe"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'F' corrisponde a:",
+      "options": [
+        "Foxtrot",
+        "Forest",
+        "Flight",
+        "France"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'G' corrisponde a:",
+      "options": [
+        "Golf",
+        "Gulf",
+        "Glider",
+        "Guardian"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'H' corrisponde a:",
+      "options": [
+        "Hotel",
+        "House",
+        "Helicopter",
+        "Hornet"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'I' corrisponde a:",
+      "options": [
+        "India",
+        "Italy",
+        "Ice",
+        "Island"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'J' corrisponde a:",
+      "options": [
+        "Juliett",
+        "Jungle",
+        "Jupiter",
+        "Justice"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'K' corrisponde a:",
+      "options": [
+        "Kilo",
+        "King",
+        "Keeper",
+        "Knight"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'L' corrisponde a:",
+      "options": [
+        "Lima",
+        "London",
+        "Lion",
+        "Laser"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'M' corrisponde a:",
+      "options": [
+        "Mike",
+        "Mother",
+        "Mission",
+        "Mexico"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'N' corrisponde a:",
+      "options": [
+        "November",
+        "North",
+        "Neptune",
+        "Navy"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'O' corrisponde a:",
+      "options": [
+        "Oscar",
+        "Omega",
+        "Onyx",
+        "Operator"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'P' corrisponde a:",
+      "options": [
+        "Papa",
+        "Paris",
+        "Pilot",
+        "Police"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'Q' corrisponde a:",
+      "options": [
+        "Quebec",
+        "Quick",
+        "Quorum",
+        "Quest"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'R' corrisponde a:",
+      "options": [
+        "Romeo",
+        "Rocket",
+        "River",
+        "Radar"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'S' corrisponde a:",
+      "options": [
+        "Sierra",
+        "Sun",
+        "Sky",
+        "Space"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'T' corrisponde a:",
+      "options": [
+        "Tango",
+        "Tiger",
+        "Toronto",
+        "Trail"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'U' corrisponde a:",
+      "options": [
+        "Uniform",
+        "Universe",
+        "Unity",
+        "Ultra"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'V' corrisponde a:",
+      "options": [
+        "Victor",
+        "Victory",
+        "Vehicle",
+        "Vision"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'W' corrisponde a:",
+      "options": [
+        "Whiskey",
+        "Winter",
+        "White",
+        "Water"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'X' corrisponde a:",
+      "options": [
+        "X-ray",
+        "Xerox",
+        "Xylophone",
+        "Xenon"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'Y' corrisponde a:",
+      "options": [
+        "Yankee",
+        "Yellow",
+        "Youth",
+        "Yield"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto ICAO, la lettera 'Z' corrisponde a:",
+      "options": [
+        "Zulu",
+        "Zero",
+        "Zodiac",
+        "Zone"
+      ]
+    },
+    {
+      "question": "Qual è il significato del segnale di soccorso 'MAYDAY'?",
+      "options": [
+        "Richiesta di soccorso immediato",
+        "Richiesta di aiuto tecnico",
+        "Emergenza medica lieve",
+        "Cambio frequenza obbligatorio"
+      ]
+    },
+    {
+      "question": "Qual è il significato operativo di 'PAN PAN'?",
+      "options": [
+        "Situazione urgente senza pericolo immediato",
+        "Segnale di fine comunicazione",
+        "Segnale di trasmissione fallita",
+        "Ordine di cambiamento di frequenza"
+      ]
+    },
+    {
+      "question": "Quale segnale è usato internazionalmente in telegrafia per soccorso?",
+      "options": [
+        "SOS (... --- ...)",
+        "MAYDAY",
+        "CQD",
+        "HELP"
+      ]
+    },
+    {
+      "question": "Quale segnale indica una richiesta di aiuto immediato?",
+      "options": [
+        "MAYDAY",
+        "PAN PAN",
+        "SOS solo in CW",
+        "CQD"
+      ]
+    },
+    {
+      "question": "Cosa significa ICAO?",
+      "options": [
+        "International Civil Aviation Organization",
+        "International Communications Assistance Office",
+        "International Code for Air Operations",
+        "Intercontinental Civilian Aviation Order"
+      ]
+    },
+    {
+      "question": "Perché è nato il codice Q?",
+      "options": [
+        "Per facilitare le comunicazioni tra operatori di lingua diversa",
+        "Per codificare le frequenze radio",
+        "Per aumentare la velocità di trasmissione",
+        "Per migliorare il segnale radio"
+      ]
+    },
+    {
+      "question": "Ai radioamatori è vietato trasmettere segnali di soccorso:",
+      "options": [
+        "Salvo casi di grave ed imminente pericolo",
+        "Solo su bande VHF",
+        "Sempre, senza eccezioni",
+        "Durante i contest radioamatoriali"
+      ]
+    },
+    {
+      "question": "Cosa prevede il comma 7 dell'articolo 12 del Codice delle Comunicazioni?",
+      "options": [
+        "È vietato l'uso di segnali di soccorso se non in caso di reale necessità",
+        "Consente l'uso libero delle frequenze militari",
+        "Obbliga a cambiare nominativo ogni anno",
+        "Permette trasmissioni commerciali per radioamatori"
+      ]
+    },
+    {
+      "question": "Cosa deve fare un radioamatore che riceve un segnale di soccorso?",
+      "options": [
+        "Deve dare immediato avviso alle autorità competenti",
+        "Deve ignorarlo",
+        "Deve trasmettere un messaggio di conferma all'emittente",
+        "Deve registrarlo senza intervenire"
+      ]
+    },
+    {
+      "question": "Come è composto l'identificativo di chiamata di un radioamatore italiano?",
+      "options": [
+        "Prefisso + suffisso",
+        "Prefisso + numero + suffisso",
+        "Numero + suffisso",
+        "Solo prefisso"
+      ]
+    },
+    {
+      "question": "Come è composto il prefisso di un indicativo di chiamata radioamatoriale italiano?",
+      "options": [
+        "Una o due lettere (la prima sempre I) seguite da un numero",
+        "Solo lettere senza numeri",
+        "Solo numeri senza lettere",
+        "Due lettere fisse senza variazione"
+      ]
+    },
+    {
+      "question": "Cosa rappresenta il suffisso nell'indicativo di chiamata di un radioamatore italiano?",
+      "options": [
+        "Il vero nominativo del singolo radioamatore",
+        "La zona geografica di trasmissione",
+        "Il tipo di apparato utilizzato",
+        "La categoria di licenza"
+      ]
+    },
+    {
+      "question": "Attualmente, quanti caratteri ha generalmente il suffisso assegnato ai radioamatori italiani?",
+      "options": [
+        "Tre o quattro lettere",
+        "Una sola lettera",
+        "Cinque lettere",
+        "Due lettere obbligatorie"
+      ]
+    },
+    {
+      "question": "Secondo il nuovo decreto, in caso di esaurimento dei nominativi disponibili, quale potrà essere la lunghezza massima di un indicativo?",
+      "options": [
+        "Fino a 7 caratteri complessivi",
+        "Massimo 5 caratteri",
+        "Illimitato",
+        "Non superiore a 4 caratteri"
+      ]
+    },
+
+    {
+      "question": "In caso di emergenza, quali bande possono usare i radioamatori secondo il Codice delle comunicazioni elettroniche?",
+      "options": [
+        "Tutte le bande loro assegnate",
+        "Solo la banda VHF",
+        "Solo la banda HF",
+        "Solo la banda di emergenza"
+      ]
+    },
+    {
+      "question": "Secondo il Codice delle comunicazioni elettroniche, i radioamatori possono essere autorizzati temporaneamente a:",
+      "options": [
+        "Utilizzare frequenze non normalmente loro assegnate",
+        "Operare solo in fonia",
+        "Limitarsi alle frequenze militari",
+        "Sospendere le attività radioamatoriali"
+      ]
+    },
+    {
+      "question": "Quale legge stabilisce le disposizioni sull'uso delle bande da parte dei radioamatori in emergenza?",
+      "options": [
+        "Decreto Legislativo 1 agosto 2003, n. 259",
+        "Legge 31 dicembre 1996, n. 675",
+        "Convenzione di Ginevra",
+        "Regolamento Radiotelevisivo Nazionale"
+      ]
+    },
+    {
+      "question": "Secondo l'articolo 141 del Codice delle comunicazioni, in caso di calamità cosa può autorizzare l'Autorità competente?",
+      "options": [
+        "Speciali collegamenti radio oltre i limiti stabiliti",
+        "L'uso di trasmettitori militari",
+        "La sospensione delle comunicazioni radio",
+        "La trasmissione libera su tutte le frequenze"
+      ]
+    },
+    {
+      "question": "Chi può autorizzare interventi speciali dei radioamatori in caso di emergenza?",
+      "options": [
+        "Autorità competenti come Sindaci, Prefetti, Regioni, Province",
+        "Ministero della Difesa",
+        "Polizia stradale",
+        "Associazioni private di radioamatori"
+      ]
+    },
+    {
+      "question": "In caso di calamità pubblica, cosa devono fare i radioamatori prima di intervenire con comunicazioni speciali?",
+      "options": [
+        "Avere espressa autorizzazione dalle Autorità competenti",
+        "Procedere in autonomia senza permessi",
+        "Contattare solo altre stazioni radioamatoriali locali",
+        "Attendere istruzioni dalle associazioni di categoria"
+      ]
+    },
+    {
+      "question": "Secondo il regolamento, cosa è vietato trasmettere?",
+      "options": [
+        "Segnali falsi o ingannevoli",
+        "Rapporti di ricezione",
+        "Richieste di QSL",
+        "Identificativo di chiamata"
+      ]
+    },
+    {
+      "question": "Quando un radioamatore deve identificare la propria stazione?",
+      "options": [
+        "All'inizio, ogni 10 minuti, e alla fine della trasmissione",
+        "Solo all'inizio della trasmissione",
+        "Solo alla fine della trasmissione",
+        "Non è obbligatorio identificarsi"
+      ]
+    },
+    {
+      "question": "Ogni quanto tempo deve trasmettere l'identificativo una stazione ripetitrice automatica?",
+      "options": [
+        "Ogni 10 minuti",
+        "Ogni ora",
+        "Solo a inizio giornata",
+        "Ogni 30 minuti"
+      ]
+    },
+    {
+      "question": "In che modo una stazione ripetitrice può emettere il proprio identificativo?",
+      "options": [
+        "Con segnali vocali, Morse o codici compatibili con la stampa convenzionale",
+        "Solo con segnali vocali",
+        "Solo con segnali digitali criptati",
+        "Solo tramite comunicazione a banda larga"
+      ]
+    },
+    {
+      "question": "Secondo il Regolamento Internazionale delle Radiocomunicazioni, quale tipo di trasmissione è vietato?",
+      "options": [
+        "Trasmissioni inutili o disturbanti",
+        "Trasmissioni tra radioamatori in fonia",
+        "Trasmissioni di bollettini meteorologici",
+        "Trasmissioni tecniche di prova"
+      ]
+    },
+    {
+      "question": "Qual è il limite massimo di potenza irradiata per una stazione radioamatoriale in Italia?",
+      "options": [
+        "500 Watt",
+        "100 Watt",
+        "1000 Watt",
+        "5 Kilowatt"
+      ]
+    },
+    {
+      "question": "Cosa deve fare una stazione radioamatoriale se provoca disturbi nocivi?",
+      "options": [
+        "Adottare misure per eliminare tali disturbi",
+        "Ignorare il problema",
+        "Aumentare la potenza",
+        "Passare a modulazione di frequenza"
+      ]
+    },
+    {
+      "question": "Cosa deve fare un radioamatore che si trasferisce temporaneamente in un'altra regione italiana?",
+      "options": [
+        "Usare il proprio call preceduto dal prefisso della regione ospite",
+        "Richiedere un nuovo nominativo",
+        "Cambiare suffisso",
+        "Sospendere le trasmissioni"
+      ]
+    },
+    {
+      "question": "Quando si effettua una trasmissione temporanea in un'altra regione, come va indicato il nominativo?",
+      "options": [
+        "Proprio nominativo seguito da una barra (/) e dal prefisso della regione ospite",
+        "Prefisso della regione ospite seguito dal nominativo",
+        "Solo cambiando frequenza",
+        "Non è necessario indicarlo"
+      ]
+    },
+    {
+      "question": "Se un radioamatore cambia definitivamente la propria residenza in un'altra regione, cosa deve fare?",
+      "options": [
+        "Richiedere all'Ispettorato Territoriale il cambio del prefisso",
+        "Continuare ad usare il prefisso originale",
+        "Richiedere un nuovo suffisso",
+        "Modificare il call autonomamente"
+      ]
+    },
+    {
+      "question": "Chi è l'ente competente per autorizzare il cambio di prefisso dopo un trasferimento definitivo?",
+      "options": [
+        "L'Ispettorato Territoriale della nuova regione",
+        "Il Sindaco della nuova città",
+        "La Protezione Civile",
+        "Il Ministero della Difesa"
+      ]
+    },
+    {
+      "question": "Cos'è un nominativo speciale?",
+      "options": [
+        "Un nominativo temporaneo per eventi particolari",
+        "Un nominativo normale assegnato ai nuovi radioamatori",
+        "Un nominativo militare",
+        "Un nominativo di emergenza"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso I1?",
+      "options": [
+        "Piemonte e Liguria",
+        "Lombardia",
+        "Toscana",
+        "Sardegna"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IK1?",
+      "options": [
+        "Piemonte e Liguria",
+        "Lombardia",
+        "Toscana",
+        "Sardegna"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IZ1?",
+      "options": [
+        "Piemonte e Liguria",
+        "Lazio e Abruzzo",
+        "Sicilia",
+        "Veneto"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IW1?",
+      "options": [
+        "Piemonte e Liguria",
+        "Lazio e Abruzzo",
+        "Sicilia",
+        "Veneto"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IU1?",
+      "options": [
+        "Piemonte e Liguria",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Puglia"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso I2?",
+      "options": [
+        "Lombardia",
+        "Piemonte",
+        "Toscana",
+        "Campania"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IK2?",
+      "options": [
+        "Lombardia",
+        "Piemonte",
+        "Toscana",
+        "Campania"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IZ2?",
+      "options": [
+        "Lombardia",
+        "Veneto",
+        "Calabria",
+        "Trentino-Alto Adige"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IW2?",
+      "options": [
+        "Lombardia",
+        "Liguria",
+        "Emilia-Romagna",
+        "Sardegna"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IU2?",
+      "options": [
+        "Lombardia",
+        "Liguria",
+        "Emilia-Romagna",
+        "Sardegna"
+      ]
+    },
+
+    {
+      "question": "A quale regione si riferisce il prefisso I3?",
+      "options": [
+        "Veneto",
+        "Lombardia",
+        "Piemonte",
+        "Toscana"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IK3?",
+      "options": [
+        "Veneto",
+        "Friuli Venezia Giulia",
+        "Lazio",
+        "Puglia"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IZ3?",
+      "options": [
+        "Veneto",
+        "Campania",
+        "Emilia-Romagna",
+        "Calabria"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IW3?",
+      "options": [
+        "Veneto",
+        "Sicilia",
+        "Sardegna",
+        "Marche"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IU3?",
+      "options": [
+        "Veneto",
+        "Umbria",
+        "Abruzzo",
+        "Liguria"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso I4?",
+      "options": [
+        "Emilia-Romagna",
+        "Toscana",
+        "Veneto",
+        "Lazio"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IK4?",
+      "options": [
+        "Emilia-Romagna",
+        "Lombardia",
+        "Campania",
+        "Sardegna"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IZ4?",
+      "options": [
+        "Emilia-Romagna",
+        "Calabria",
+        "Friuli Venezia Giulia",
+        "Abruzzo"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IW4?",
+      "options": [
+        "Emilia-Romagna",
+        "Veneto",
+        "Piemonte",
+        "Liguria"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IU4?",
+      "options": [
+        "Emilia-Romagna",
+        "Sicilia",
+        "Trentino-Alto Adige",
+        "Marche"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso I5?",
+      "options": [
+        "Toscana",
+        "Lazio",
+        "Veneto",
+        "Puglia"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IK5?",
+      "options": [
+        "Toscana",
+        "Sicilia",
+        "Calabria",
+        "Marche"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IZ5?",
+      "options": [
+        "Toscana",
+        "Liguria",
+        "Emilia-Romagna",
+        "Abruzzo"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IW5?",
+      "options": [
+        "Toscana",
+        "Campania",
+        "Lombardia",
+        "Friuli Venezia Giulia"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IU5?",
+      "options": [
+        "Toscana",
+        "Trentino-Alto Adige",
+        "Molise",
+        "Sardegna"
+      ]
+    },
+
+    {
+      "question": "A quali regioni si riferisce il prefisso I6?",
+      "options": [
+        "Marche e Abruzzo",
+        "Toscana",
+        "Calabria e Basilicata",
+        "Piemonte"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IK6?",
+      "options": [
+        "Marche e Abruzzo",
+        "Veneto e Trentino-Alto Adige",
+        "Lazio e Umbria",
+        "Sicilia"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IZ6?",
+      "options": [
+        "Marche e Abruzzo",
+        "Puglia e Basilicata",
+        "Molise e Sardegna",
+        "Friuli Venezia Giulia"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IW6?",
+      "options": [
+        "Marche e Abruzzo",
+        "Calabria e Basilicata",
+        "Toscana e Lazio",
+        "Sardegna"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IU6?",
+      "options": [
+        "Marche e Abruzzo",
+        "Veneto e Friuli Venezia Giulia",
+        "Sicilia e Sardegna",
+        "Puglia"
+      ]
+    },
+
+    {
+      "question": "A quali regioni si riferisce il prefisso I7?",
+      "options": [
+        "Puglia e provincia di Matera",
+        "Campania e Calabria",
+        "Sicilia",
+        "Marche"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IK7?",
+      "options": [
+        "Puglia e provincia di Matera",
+        "Abruzzo e Marche",
+        "Toscana",
+        "Liguria"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IZ7?",
+      "options": [
+        "Puglia e provincia di Matera",
+        "Sicilia e Sardegna",
+        "Molise e Abruzzo",
+        "Veneto"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IW7?",
+      "options": [
+        "Puglia e provincia di Matera",
+        "Calabria e Basilicata",
+        "Lazio e Toscana",
+        "Piemonte"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IU7?",
+      "options": [
+        "Puglia e provincia di Matera",
+        "Campania e Calabria",
+        "Friuli Venezia Giulia",
+        "Lombardia"
+      ]
+    },
+
+    {
+      "question": "A quali regioni si riferisce il prefisso I8?",
+      "options": [
+        "Molise, Campania, Calabria e provincia di Potenza",
+        "Sicilia",
+        "Lazio e Abruzzo",
+        "Veneto"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IK8?",
+      "options": [
+        "Molise, Campania, Calabria e provincia di Potenza",
+        "Toscana",
+        "Puglia e Basilicata",
+        "Friuli Venezia Giulia"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IZ8?",
+      "options": [
+        "Molise, Campania, Calabria e provincia di Potenza",
+        "Sardegna",
+        "Abruzzo e Molise",
+        "Veneto"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IW8?",
+      "options": [
+        "Molise, Campania, Calabria e provincia di Potenza",
+        "Piemonte e Liguria",
+        "Toscana",
+        "Sicilia"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IU8?",
+      "options": [
+        "Molise, Campania, Calabria e provincia di Potenza",
+        "Lombardia",
+        "Trentino-Alto Adige",
+        "Puglia"
+      ]
+    },
+
+    {
+      "question": "A quali regioni si riferisce il prefisso I0?",
+      "options": [
+        "Lazio e Umbria",
+        "Toscana",
+        "Puglia",
+        "Calabria"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IK0?",
+      "options": [
+        "Lazio e Umbria",
+        "Lombardia",
+        "Marche e Abruzzo",
+        "Piemonte"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IZ0?",
+      "options": [
+        "Lazio e Umbria",
+        "Emilia-Romagna",
+        "Veneto",
+        "Sicilia"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferiscono i prefissi IW0A–IW0T?",
+      "options": [
+        "Lazio e Umbria",
+        "Calabria e Basilicata",
+        "Puglia e Matera",
+        "Friuli Venezia Giulia"
+      ]
+    },
+    {
+      "question": "A quali regioni si riferisce il prefisso IU0?",
+      "options": [
+        "Lazio e Umbria",
+        "Campania",
+        "Toscana",
+        "Sardegna"
+      ]
+    },
+
+    {
+      "question": "A quale regione si riferisce il prefisso IX1?",
+      "options": [
+        "Valle d'Aosta",
+        "Piemonte",
+        "Liguria",
+        "Trentino-Alto Adige"
+      ]
+    },
+    {
+      "question": "A quale regione si riferiscono i prefissi IW1A–IW1O?",
+      "options": [
+        "Valle d'Aosta",
+        "Friuli Venezia Giulia",
+        "Veneto",
+        "Sicilia"
+      ]
+    },
+
+    {
+      "question": "A quale regione si riferisce il prefisso IN3?",
+      "options": [
+        "Trentino-Alto Adige",
+        "Veneto",
+        "Sardegna",
+        "Toscana"
+      ]
+    },
+    {
+      "question": "A quale regione si riferiscono i prefissi IW3A–IW3D?",
+      "options": [
+        "Trentino-Alto Adige",
+        "Piemonte",
+        "Puglia",
+        "Abruzzo"
+      ]
+    },
+
+    {
+      "question": "A quale regione si riferisce il prefisso IV3?",
+      "options": [
+        "Friuli Venezia Giulia",
+        "Lombardia",
+        "Lazio",
+        "Marche"
+      ]
+    },
+    {
+      "question": "A quale regione si riferiscono i prefissi IW3Q–IW3Z?",
+      "options": [
+        "Friuli Venezia Giulia",
+        "Calabria",
+        "Sardegna",
+        "Toscana"
+      ]
+    },
+
+    {
+      "question": "A quale regione si riferisce il prefisso IS0?",
+      "options": [
+        "Sardegna",
+        "Sicilia",
+        "Puglia",
+        "Campania"
+      ]
+    },
+    {
+      "question": "A quale regione si riferiscono i prefissi IW0U–IW0Z?",
+      "options": [
+        "Sardegna",
+        "Calabria",
+        "Veneto",
+        "Friuli Venezia Giulia"
+      ]
+    },
+
+    {
+      "question": "A quale regione si riferisce il prefisso IT9?",
+      "options": [
+        "Sicilia",
+        "Sardegna",
+        "Puglia",
+        "Basilicata"
+      ]
+    },
+    {
+      "question": "A quale regione si riferisce il prefisso IW9?",
+      "options": [
+        "Sicilia",
+        "Campania",
+        "Lazio",
+        "Piemonte"
+      ]
+    },
+
+    {
+      "question": "A quali isole si riferisce il prefisso IA5?",
+      "options": [
+        "Isole tirreniche della Toscana",
+        "Isole Eolie",
+        "Isole Egadi",
+        "Isole Pelagie"
+      ]
+    },
+    {
+      "question": "A quali isole si riferisce il prefisso IB0?",
+      "options": [
+        "Isole tirreniche del Lazio",
+        "Isole Egadi",
+        "Isole ioniche della Puglia",
+        "Isole minori della Sardegna"
+      ]
+    },
+    {
+      "question": "A quali isole si riferisce il prefisso IC8?",
+      "options": [
+        "Isole tirreniche della Campania, Calabria e provincia di Potenza",
+        "Isole Eolie",
+        "Isole Pelagie",
+        "Isole adriatiche della Puglia"
+      ]
+    },
+    {
+      "question": "A quale arcipelago si riferisce il prefisso ID9?",
+      "options": [
+        "Isole Eolie",
+        "Isole Egadi",
+        "Isole tirreniche della Toscana",
+        "Isole ioniche della Puglia"
+      ]
+    },
+    {
+      "question": "A quale isola si riferisce il prefisso IE9?",
+      "options": [
+        "Isola di Ustica",
+        "Isola di Pantelleria",
+        "Isola di Capraia",
+        "Isola d'Elba"
+      ]
+    },
+    {
+      "question": "A quale arcipelago si riferisce il prefisso IF9?",
+      "options": [
+        "Isole Egadi",
+        "Isole Pelagie",
+        "Isole adriatiche della Puglia",
+        "Isole minori della Sardegna"
+      ]
+    },
+    {
+      "question": "A quale arcipelago si riferisce il prefisso IG9?",
+      "options": [
+        "Isole Pelagie",
+        "Isole Egadi",
+        "Isole Eolie",
+        "Isole ioniche della Puglia"
+      ]
+    },
+    {
+      "question": "A quale isola si riferisce il prefisso IH9?",
+      "options": [
+        "Isola di Pantelleria",
+        "Isola di Ustica",
+        "Isole Eolie",
+        "Isole Pelagie"
+      ]
+    },
+    {
+      "question": "A quali isole si riferisce il prefisso IJ7?",
+      "options": [
+        "Isole ioniche della Puglia e della provincia di Matera",
+        "Isole adriatiche della Puglia",
+        "Isole minori della Sardegna",
+        "Isole Egadi"
+      ]
+    },
+    {
+      "question": "A quali isole si riferisce il prefisso IL7?",
+      "options": [
+        "Isole adriatiche della Puglia",
+        "Isole ioniche della Puglia",
+        "Isole Egadi",
+        "Isole Pelagie"
+      ]
+    },
+    {
+      "question": "A quali isole si riferisce il prefisso IM0?",
+      "options": [
+        "Isole minori della Sardegna",
+        "Isole Egadi",
+        "Isole Pelagie",
+        "Isole tirreniche del Lazio"
+      ]
+    },
+
+    {
+      "question": "Quale prefisso è assegnato alla regioni Piemonte e Liguria?",
+      "options": [
+        "IK1",
+        "IK3",
+        "IZ2",
+        "IN3"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla regione Lombardia?",
+      "options": [
+        "IZ2",
+        "IU3",
+        "IZ4",
+        "IK1"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla regione Veneto?",
+      "options": [
+        "I3",
+        "IZ1",
+        "IK2",
+        "IS0"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla regione Emilia-Romagna?",
+      "options": [
+        "IK4",
+        "IU2",
+        "IK5",
+        "IW3"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla regione Toscana?",
+      "options": [
+        "I5",
+        "I0",
+        "IZ3",
+        "IT9"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alle regioni Marche e Abruzzo?",
+      "options": [
+        "IK6",
+        "IZ7",
+        "IU1",
+        "IK9"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla Puglia e alla provincia di Matera?",
+      "options": [
+        "I7",
+        "I5",
+        "IK8",
+        "IN3"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato a Campania, Calabria, Molise e provincia di Potenza?",
+      "options": [
+        "I8",
+        "IK2",
+        "IZ0",
+        "IT9"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alle regioni Lazio e Umbria?",
+      "options": [
+        "IK0",
+        "IK1",
+        "IU2",
+        "IW9"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla Sicilia?",
+      "options": [
+        "IT9",
+        "IS0",
+        "IZ6",
+        "IU3"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla Sardegna?",
+      "options": [
+        "IS0",
+        "IV3",
+        "IZ8",
+        "IN3"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato al Trentino-Alto Adige?",
+      "options": [
+        "IN3",
+        "IK3",
+        "IU5",
+        "IW7"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato al Friuli Venezia Giulia?",
+      "options": [
+        "IV3",
+        "IW0",
+        "IZ4",
+        "IN3"
+      ]
+    },
+    {
+      "question": "Quale prefisso è assegnato alla Valle d'Aosta?",
+      "options": [
+        "IX1",
+        "IN3",
+        "IZ1",
+        "I5"
+      ]
+    },
+
+    {
+      "question": "In che anno è stata fondata la I.A.R.U.?",
+      "options": [
+        "1924",
+        "1927",
+        "1865",
+        "1932"
+      ]
+    },
+    {
+      "question": "Dove è stata costituita la I.A.R.U.?",
+      "options": [
+        "Parigi",
+        "Ginevra",
+        "Roma",
+        "New York"
+      ]
+    },
+    {
+      "question": "Qual è uno degli scopi principali della I.A.R.U.?",
+      "options": [
+        "Coordinare le comunicazioni fra i radioamatori nel mondo",
+        "Assegnare frequenze militari",
+        "Costruire ripetitori commerciali",
+        "Rilasciare licenze professionali"
+      ]
+    },
+    {
+      "question": "Qual è un altro obiettivo della I.A.R.U.?",
+      "options": [
+        "Incentivare gli scambi internazionali di informazioni tecniche",
+        "Limitare l'accesso alle frequenze radio",
+        "Organizzare eventi sportivi",
+        "Gestire reti televisive"
+      ]
+    },
+    {
+      "question": "Quando è stata fondata la I.T.U. (International Telecommunication Union)?",
+      "options": [
+        "1865",
+        "1927",
+        "1924",
+        "1945"
+      ]
+    },
+    {
+      "question": "Qual era l'iniziale prerogativa della I.T.U. alla sua fondazione?",
+      "options": [
+        "Regolamentare la telegrafia a filo",
+        "Assegnare frequenze radioamatoriali",
+        "Gestire le comunicazioni via satellite",
+        "Monitorare traffico Internet"
+      ]
+    },
+    {
+      "question": "Quando il Servizio Internazionale di Radioamatore è stato ufficialmente riconosciuto?",
+      "options": [
+        "1927",
+        "1924",
+        "1865",
+        "1939"
+      ]
+    },
+    {
+      "question": "Con il riconoscimento del Servizio Internazionale di Radioamatore, cosa fu assegnato ai radioamatori?",
+      "options": [
+        "Le prime bande di frequenze radioamatoriali",
+        "Le prime licenze militari",
+        "Accesso libero a tutte le frequenze",
+        "Sistemi di comunicazione via fibra ottica"
+      ]
+    },
+
+    {
+      "question": "Cosa devono fare i Membri riguardo l'utilizzo delle frequenze secondo l'Articolo 6?",
+      "options": [
+        "Limitare l'uso dello spettro al minimo indispensabile",
+        "Occupare il maggior numero possibile di frequenze",
+        "Privilegiare i servizi commerciali",
+        "Usare tutte le bande disponibili senza restrizioni"
+      ]
+    },
+    {
+      "question": "Cosa si richiede riguardo all'assegnazione di nuove frequenze?",
+      "options": [
+        "Evitare di causare disturbi pregiudizievoli ai servizi esistenti",
+        "Assegnare frequenze senza restrizioni",
+        "Favorire il traffico commerciale",
+        "Dare priorità ai nuovi servizi rispetto a quelli esistenti"
+      ]
+    },
+
+    {
+      "question": "Secondo l'Articolo 6, quando si effettua una nuova assegnazione o una modifica della frequenza, quale regola deve essere rispettata?",
+      "options": [
+        "Evitare di causare disturbi a stazioni conformi alla tabella e registrate nello schedario internazionale",
+        "Assegnare liberamente nuove frequenze a qualsiasi servizio",
+        "Dare priorità alle stazioni commerciali",
+        "Concedere frequenze sperimentali senza controlli"
+      ]
+    },
+
+{
+  "question": "Secondo l'Articolo 6 del Regolamento Internazionale, cosa NON devono fare le amministrazioni dei Membri?",
+  "options": [
+    "Assegnare frequenze in deroga alla tabella di attribuzione",
+    "Limitare le trasmissioni radioamatoriali",
+    "Controllare le comunicazioni in fonia",
+    "Registrare tutte le stazioni commerciali"
+  ]
+},
+    {
+      "question": "Come devono essere assegnate le frequenze per evitare disturbi ai servizi delle bande adiacenti?",
+      "options": [
+        "Devono essere sufficientemente distanti dai limiti della banda",
+        "Devono essere assegnate al limite della banda",
+        "Devono essere assegnate liberamente senza restrizioni",
+        "Devono essere sovrapposte per favorire la copertura"
+      ]
+    },
+    {
+      "question": "Cosa prevede il regolamento per il servizio di radioastronomia?",
+      "options": [
+        "È trattato come un servizio di radiocomunicazione ai fini della protezione",
+        "Non gode di protezione",
+        "Ha sempre priorità su tutti i servizi",
+        "Può operare su tutte le bande senza limitazioni"
+      ]
+    },
+    {
+      "question": "In regioni o sottoregioni adiacenti, come devono operare i servizi sulla stessa banda?",
+      "options": [
+        "Con parità di diritti, evitando disturbi pregiudizievoli",
+        "Con priorità ai servizi militari",
+        "Con restrizioni ai servizi amatoriali",
+        "Con diritti assegnati in base alla potenza trasmessa"
+      ]
+    },
+
+{
+  "question": "Secondo il Regolamento Internazionale, qual è lo scopo del servizio di radioamatore?",
+  "options": [
+    "Istruzione individuale, intercomunicazione e studi tecnici senza fini di lucro",
+    "Assistenza tecnica per le comunicazioni commerciali",
+    "Fornire servizi Internet via radio",
+    "Comunicazioni militari e di emergenza"
+  ]
+},
+{
+  "question": "Chi può operare nel servizio di radioamatore?",
+  "options": [
+    "Persone debitamente autorizzate e interessate alla radioelettricità a titolo personale",
+    "Chiunque possieda un apparato radio",
+    "Solo dipendenti del Ministero delle Comunicazioni",
+    "Solo operatori satellitari certificati"
+  ]
+},
+{
+  "question": "Qual è una caratteristica fondamentale del servizio di radioamatore?",
+  "options": [
+    "L'assenza di interesse pecuniario",
+    "Il supporto a comunicazioni commerciali",
+    "La copertura globale obbligatoria",
+    "L'uso esclusivo di satelliti"
+  ]
+},
+{
+  "question": "Cosa distingue il servizio di radioamatore via satellite dal servizio di radioamatore terrestre?",
+  "options": [
+    "L'utilizzo di stazioni spaziali su satelliti della Terra",
+    "La presenza di scopi commerciali",
+    "L'uso esclusivo di bande VHF",
+    "L'obbligo di trasmettere solo in telegrafia"
+  ]
+},
+{
+  "question": "Il servizio di radioamatore via satellite ha gli stessi fini di quale altro servizio?",
+  "options": [
+    "Del servizio di radioamatore terrestre",
+    "Del servizio mobile marittimo",
+    "Del servizio di radiodiffusione",
+    "Del servizio meteorologico"
+  ]
+},
+{
+  "question": "Quando sono vietate le comunicazioni fra stazioni d’amatore di Paesi differenti?",
+  "options": [
+    "Quando uno dei Paesi interessati ha notificato la sua opposizione",
+    "Quando non è presente il prefisso internazionale",
+    "Quando si usano frequenze superiori ai 30 MHz",
+    "Quando non si trasmette in telegrafia"
+  ]
+},
+{
+  "question": "Cosa devono contenere i messaggi tra radioamatori di Paesi differenti quando autorizzati?",
+  "options": [
+    "Messaggi tecnici e personali di scarso rilievo",
+    "Comunicazioni commerciali",
+    "Messaggi di emergenza governativi",
+    "Trasmissioni musicali"
+  ]
+},
+{
+  "question": "Cosa è espressamente vietato tra stazioni di amatore in ambito internazionale?",
+  "options": [
+    "Trasmettere comunicazioni provenienti da terzi o destinate a terzi",
+    "Trasmettere in fonia",
+    "Usare prefissi speciali",
+    "Utilizzare il codice Q"
+  ]
+},
+{
+  "question": "Quali Paesi possono modificare le regole sul traffico internazionale tra stazioni di amatore?",
+  "options": [
+    "Solo quelli che stipulano accordi speciali",
+    "Solo Paesi membri della I.T.U.",
+    "Solo Paesi dell’Unione Europea",
+    "Nessun Paese può modificarle"
+  ]
+},
+{
+  "question": "Quando può NON essere richiesto l’uso del codice Morse per l’idoneità?",
+  "options": [
+    "Se la stazione opera esclusivamente su frequenze superiori a 30 MHz",
+    "Se si usa solo fonia",
+    "Se l’operatore è esonerato per età",
+    "Se la stazione è automatica"
+  ]
+},
+{
+  "question": "Chi deve verificare l’idoneità tecnica dell’operatore di una stazione di amatore?",
+  "options": [
+    "Le amministrazioni competenti",
+    "Le associazioni locali",
+    "Il Ministero della Difesa",
+    "La IARU"
+  ]
+},
+{
+  "question": "Da cosa dipende la potenza massima consentita a una stazione di amatore?",
+  "options": [
+    "Dall’idoneità dell’operatore e dalle condizioni operative",
+    "Dalla posizione geografica",
+    "Dalla categoria della licenza",
+    "Dal numero di antenne installate"
+  ]
+},
+{
+  "question": "Qual è una condizione tecnica da rispettare per le emissioni delle stazioni d’amatore?",
+  "options": [
+    "La frequenza emessa deve essere costante ed esente da irradiazioni non essenziali",
+    "L’uso esclusivo del codice Morse",
+    "Emissioni a banda larga solo in fonia",
+    "Cambio frequenza ogni 10 minuti"
+  ]
+},
+{
+  "question": "Durante le emissioni, cosa devono trasmettere le stazioni di amatore?",
+  "options": [
+    "Il proprio indicativo di chiamata a brevi intervalli",
+    "La frequenza operativa",
+    "Il nominativo del ricevente",
+    "Il codice Q completo"
+  ]
+},
+
+{
+  "question": "A quale servizio si applicano le stesse disposizioni del servizio di radioamatore terrestre?",
+  "options": [
+    "Servizio di radioamatore via satellite",
+    "Servizio di telefonia mobile",
+    "Servizio meteorologico",
+    "Servizio di radiodiffusione"
+  ]
+},
+{
+  "question": "Cosa devono avere obbligatoriamente le stazioni spaziali del servizio d’amatore via satellite che operano su bande promiscue?",
+  "options": [
+    "Dispositivi per comandare l'interruzione delle emissioni",
+    "Amplificatori di potenza potenziata",
+    "Codificatori di segnale criptato",
+    "Sistemi di trasmissione automatica continua"
+  ]
+},
+{
+  "question": "Quando deve essere possibile interrompere l'emissione di una stazione satellitare amatoriale?",
+  "options": [
+    "Quando vengono segnalati disturbi pregiudizievoli",
+    "Quando si supera la durata della trasmissione consentita",
+    "Quando la stazione è in orbita da più di un anno",
+    "Quando si usano frequenze VHF"
+  ]
+},
+{
+  "question": "Cosa devono garantire le amministrazioni prima del lancio di stazioni spaziali per il servizio d’amatore via satellite?",
+  "options": [
+    "La presenza di stazioni terrestri sufficienti per gestire eventuali disturbi",
+    "L'assenza di ogni rischio tecnico",
+    "L'autorizzazione di emissioni in tutte le bande senza restrizioni",
+    "La protezione assoluta del traffico commerciale"
+  ]
+},
+
+{
+  "question": "Come viene definita una stazione nel Regolamento Internazionale delle Radiocomunicazioni?",
+  "options": [
+    "Uno o più trasmettitori o ricevitori, con gli apparati accessori necessari per un servizio in un determinato punto",
+    "Solo un trasmettitore principale",
+    "Solo ricevitori ad alta frequenza",
+    "Un'antenna mobile senza apparati accessori"
+  ]
+},
+{
+  "question": "Come viene classificata ogni stazione di radiocomunicazione?",
+  "options": [
+    "In base al servizio che disimpegna in modo permanente o temporaneo",
+    "In base alla potenza di trasmissione",
+    "In base alla dimensione dell'antenna",
+    "In base alla frequenza utilizzata"
+  ]
+},
+{
+  "question": "Cosa si intende per Stazione d’Amatore?",
+  "options": [
+    "Uno o più trasmettitori e ricevitori, compresi gli apparati accessori necessari per un servizio di radioamatore.",
+    "Una stazione commerciale dedicata alle trasmissioni via satellite",
+    "Una stazione marittima di emergenza",
+    "Una stazione militare di comunicazione"
+  ]
+},
+{
+  "question": "Quali componenti fanno parte di una stazione di radioamatore?",
+  "options": [
+    "Trasmettitori, ricevitori e apparati accessori come alimentatori, accordatori, rosmetri, lineari, computers",
+    "Solo il trasmettitore principale e l'antenna",
+    "Esclusivamente ricevitori digitali",
+    "Solo sistemi di backup e batterie"
+  ]
+},
+{
+  "question": "Qual è la funzione principale di una stazione di radioamatore?",
+  "options": [
+    "Fornire un servizio di radiocomunicazione personale senza fini di lucro",
+    "Trasmettere programmi commerciali",
+    "Garantire comunicazioni militari di emergenza",
+    "Gestire sistemi di navigazione satellitare"
+  ]
+},
+{
+  "question": "Cosa devono sempre poter garantire tutte le emissioni radio secondo il Regolamento Internazionale?",
+  "options": [
+    "L'identificazione tramite segnali o altri mezzi",
+    "La trasmissione continua senza interruzioni",
+    "La crittografia dei segnali",
+    "L'uso esclusivo di fonia"
+  ]
+},
+{
+  "question": "È permesso trasmettere segnali di identificazione falsi o ingannatori?",
+  "options": [
+    "No, è vietato a tutte le stazioni",
+    "Sì, se autorizzato dalle amministrazioni",
+    "Solo durante le prove tecniche",
+    "Solo nelle comunicazioni interne"
+  ]
+},
+{
+  "question": "Cosa deve fare una stazione durante le sue emissioni, comprese quelle di prova?",
+  "options": [
+    "Trasmettere il proprio segnale d'identificazione il più frequentemente possibile",
+    "Trasmettere solo all'inizio della comunicazione",
+    "Indicare solo il nominativo del corrispondente",
+    "Omettere l'identificazione per brevi comunicazioni"
+  ]
+},
+{
+  "question": "Quali sono forme riconosciute di segnali di identificazione?",
+  "options": [
+    "Segnali vocali, Morse a velocità manuale, codice compatibile con stampanti o altri mezzi raccomandati dal CCIR",
+    "Emissioni in codice binario criptato",
+    "Messaggi musicali codificati",
+    "Trasmissioni a video"
+  ]
+},
+{
+  "question": "Se più stazioni lavorano su uno stesso collegamento, cosa devono fare?",
+  "options": [
+    "Ciascuna deve emettere il proprio segnale d'identificazione",
+    "Trasmettere un identificativo unico per tutte",
+    "Affidarsi a una sola stazione primaria per l'identificazione",
+    "Non trasmettere identificativi se su bande diverse"
+  ]
+},
+{
+  "question": "Cosa devono fare le amministrazioni se un'emissione priva di segnali d'identificazione può causare disturbi?",
+  "options": [
+    "Devono garantire che l'emissione sia identificabile con altri mezzi",
+    "Permettere la trasmissione solo in casi di emergenza",
+    "Spegnere immediatamente la stazione",
+    "Richiedere l'autorizzazione ONU"
+  ]
+},
+{
+  "question": "Come devono essere formati gli indicativi di chiamata per riconoscere la nazionalità?",
+  "options": [
+    "Con due caratteri iniziali che possono essere lettere o combinazioni di lettere e cifre",
+    "Con quattro lettere casuali",
+    "Con un codice numerico fisso",
+    "Solo con tre cifre e un trattino"
+  ]
+},
+{
+  "question": "Quali caratteri sono esclusi dagli indicativi di chiamata?",
+  "options": [
+    "Lettere accentate",
+    "Numeri dispari",
+    "Lettere dell'alfabeto minore di 'M'",
+    "Simboli matematici"
+  ]
+},
+
+
+{
+  "question": "Cosa può stabilire autonomamente ciascun Membro per le proprie stazioni di difesa nazionale?",
+  "options": [
+    "Le proprie procedure di identificazione",
+    "La trasmissione senza alcun indicativo",
+    "L'uso di codici segreti vietati",
+    "L'esenzione totale da identificazione"
+  ]
+},
+{
+  "question": "Anche per le stazioni di difesa nazionale, cosa si raccomanda nell'uso degli indicativi?",
+  "options": [
+    "Indicativi riconoscibili e con caratteri distintivi della nazionalità",
+    "Indicativi numerici privi di significato",
+    "Nessun identificativo se in banda riservata",
+    "Identificativi composti da simboli grafici"
+  ]
+},
+{
+  "question": "Quali stazioni devono essere obbligatoriamente dotate di un indicativo della serie internazionale?",
+  "options": [
+    "Stazioni aperte alla corrispondenza pubblica internazionale, stazioni d'amatore e tutte quelle suscettibili di causare disturbi oltre frontiera",
+    "Solo stazioni militari",
+    "Solo stazioni commerciali terrestri",
+    "Solo ripetitori satellitari"
+  ]
+},
+{
+  "question": "Da dove devono provenire gli indicativi di chiamata assegnati a stazioni con rischio di disturbi internazionali?",
+  "options": [
+    "Dalla Tavola d'attribuzione delle serie internazionali d'indicativi di chiamata (Appendice 42)",
+    "Dalle normative locali di ciascun operatore",
+    "Dai regolamenti interni delle associazioni radioamatoriali",
+    "Dalla lista dei prefissi navali"
+  ]
+},
+{
+  "question": "Come possono essere composti i primi due caratteri di un indicativo di chiamata internazionale?",
+  "options": [
+    "Due lettere, o una lettera seguita da una cifra, o una cifra seguita da una lettera",
+    "Due cifre consecutive",
+    "Tre lettere seguite da un simbolo",
+    "Due lettere sempre seguite da un numero"
+  ]
+},
+{
+  "question": "Cosa rappresentano i primi caratteri di un indicativo di chiamata internazionale?",
+  "options": [
+    "L'identificazione della nazionalità",
+    "La categoria della stazione",
+    "Il tipo di antenna utilizzata",
+    "La potenza trasmessa"
+  ]
+},
+{
+  "question": "In alcuni casi, quanti caratteri possono costituire l'identificazione della nazionalità in un indicativo di chiamata?",
+  "options": [
+    "Anche un solo carattere",
+    "Sempre almeno tre caratteri",
+    "Due cifre seguite da una lettera",
+    "Quattro caratteri, di cui tre lettere e una cifra"
+  ]
+},
+{
+  "question": "Quali caratteri sono usati per formare un indicativo di chiamata internazionale?",
+  "options": [
+    "Lettere dell'alfabeto e cifre, escludendo lettere accentate",
+    "Solo lettere maiuscole",
+    "Solo numeri e simboli",
+    "Lettere accentate e numeri"
+  ]
+},
+{
+  "question": "A quali numeri del Regolamento Internazionale delle Radiocomunicazioni si fa riferimento per la formazione degli indicativi di chiamata internazionali?",
+  "options": [
+    "Dal 2102 al 2122",
+    "Dal 2202 al 2222",
+    "Dal 2002 al 2022",
+    "Dal 2302 al 2322"
+  ]
+},
+{
+  "question": "Come deve essere strutturato un indicativo di chiamata per stazioni d'amatore e sperimentali?",
+  "options": [
+    "Un carattere e una cifra (diversa da 0 o 1) seguiti da un gruppo di al massimo tre lettere",
+    "Due lettere e due cifre consecutive",
+    "Solo lettere, senza cifre",
+    "Tre cifre seguite da due lettere"
+  ]
+},
+{
+  "question": "Secondo il Regolamento Internazionale, quale cifra NON può essere utilizzata subito dopo il primo carattere negli indicativi di chiamata per stazioni d'amatore?",
+  "options": [
+    "0 o 1",
+    "2 o 3",
+    "5 o 6",
+    "7 o 8"
+  ]
+},
+{
+  "question": "Quanti caratteri possono formare il gruppo finale dell'indicativo di una stazione d'amatore?",
+  "options": [
+    "Fino a tre lettere",
+    "Sempre quattro lettere",
+    "Al massimo due lettere",
+    "Cinque lettere obbligatorie"
+  ]
+},
+{
+  "question": "Qual è un'altra modalità consentita per la formazione dell'indicativo di chiamata di stazioni d'amatore?",
+  "options": [
+    "Due caratteri e una cifra (diversa da 0 o 1) seguiti da un gruppo di al massimo tre lettere",
+    "Tre cifre senza lettere",
+    "Una cifra seguita da due lettere",
+    "Solo lettere senza alcun numero"
+  ]
+},
+
+{
+  "question": "Cos'è la banda di allocazione?",
+  "options": [
+    "Parte dello spettro assegnata ai vari servizi riconosciuti a livello internazionale durante le WARC",
+    "Frequenza utilizzata liberamente senza autorizzazione",
+    "Banda assegnata da un singolo operatore radioamatoriale",
+    "Spettro destinato esclusivamente ai servizi militari"
+  ]
+},
+{
+  "question": "Cos'è la banda di attribuzione?",
+  "options": [
+    "Parte dello spettro attribuita da un'amministrazione P.T. nazionale ai singoli servizi",
+    "Frequenza riservata alle comunicazioni satellitari",
+    "Banda condivisa tra tutti i servizi senza priorità",
+    "Frequenza per uso libero a livello internazionale"
+  ]
+},
+{
+  "question": "Cosa definisce lo statuto di un servizio?",
+  "options": [
+    "La facoltà di utilizzare una determinata banda di frequenze attribuitegli",
+    "Il tipo di emissione consentita",
+    "La velocità di trasmissione massima",
+    "Il numero massimo di trasmettitori installabili"
+  ]
+},
+{
+  "question": "Cosa comporta lo statuto primario?",
+  "options": [
+    "Un servizio può utilizzare la banda attribuita salvo occupazione da altro servizio con pari statuto",
+    "Accesso secondario alla banda senza diritti di protezione",
+    "Utilizzo esclusivo della banda senza alcuna limitazione",
+    "Solo trasmissioni in fonia sono consentite"
+  ]
+},
+{
+  "question": "Cosa comporta lo statuto esclusivo?",
+  "options": [
+    "In quella porzione di spettro è previsto un solo servizio",
+    "Più servizi devono condividere la banda liberamente",
+    "La banda può essere occupata solo temporaneamente",
+    "Le frequenze sono disponibili per uso libero"
+  ]
+},
+{
+  "question": "Qual è il comportamento richiesto a un servizio con statuto secondario?",
+  "options": [
+    "Deve lasciare libera la frequenza su richiesta di un servizio primario",
+    "Ha priorità rispetto a qualsiasi altro servizio",
+    "Può occupare la frequenza indipendentemente da altri servizi",
+    "Non deve rispettare alcun limite"
+  ]
+},
+{
+  "question": "Cosa caratterizza il concetto di 'libero uso' secondo l'Articolo 105?",
+  "options": [
+    "Frequenze di tipo collettivo senza protezione, per collegamenti a corto raggio",
+    "Bande riservate a servizi governativi",
+    "Trasmissioni di emergenza internazionale",
+    "Frequenze assegnate esclusivamente ai radioamatori"
+  ]
+},
+{
+  "question": "Gli utilizzatori di apparecchiature a libero uso come CB o LPD hanno diritto a protezione dalle interferenze?",
+  "options": [
+    "No, non hanno diritto a protezione",
+    "Sì, solo in caso di emergenza",
+    "Sì, sempre",
+    "Solo durante eventi ufficiali"
+  ]
+},
+{
+  "question": "Qual è un esempio di apparato di libero uso?",
+  "options": [
+    "LPD (Low Power Device)",
+    "HF professionale",
+    "Stazione meteorologica satellitare",
+    "Ripetitore UHF commerciale"
+  ]
+},
+
+{
+  "question": "Qual è l'intervallo di frequenze della banda VLF?",
+  "options": [
+    "Da 3 a 30 kHz",
+    "Da 30 a 300 kHz",
+    "Da 3 a 30 MHz",
+    "Da 300 a 3000 MHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda LF?",
+  "options": [
+    "Da 30 a 300 kHz",
+    "Da 300 a 3000 kHz",
+    "Da 30 a 300 MHz",
+    "Da 3 a 30 GHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda MF?",
+  "options": [
+    "Da 300 a 3000 kHz",
+    "Da 3 a 30 MHz",
+    "Da 30 a 300 GHz",
+    "Da 30 a 300 MHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda HF?",
+  "options": [
+    "Da 3 a 30 MHz",
+    "Da 300 a 3000 MHz",
+    "Da 3 a 30 kHz",
+    "Da 30 a 300 kHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda VHF?",
+  "options": [
+    "Da 30 a 300 MHz",
+    "Da 300 a 3000 kHz",
+    "Da 3 a 30 GHz",
+    "Da 300 a 3000 MHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda UHF?",
+  "options": [
+    "Da 300 a 3000 MHz",
+    "Da 3 a 30 MHz",
+    "Da 30 a 300 kHz",
+    "Da 30 a 300 GHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda SHF?",
+  "options": [
+    "Da 3 a 30 GHz",
+    "Da 30 a 300 kHz",
+    "Da 3 a 30 MHz",
+    "Da 300 a 3000 MHz"
+  ]
+},
+{
+  "question": "Qual è l'intervallo di frequenze della banda EHF?",
+  "options": [
+    "Da 30 a 300 GHz",
+    "Da 3 a 30 GHz",
+    "Da 300 a 3000 MHz",
+    "Da 30 a 300 MHz"
+  ]
+},
+
+{
+  "question": "A quale banda appartiene una frequenza di 35 GHz?",
+  "options": [
+    "EHF",
+    "SHF",
+    "UHF",
+    "VHF"
+  ]
+},
+{
+  "question": "A quale banda appartiene una frequenza di 10 GHz?",
+  "options": [
+    "SHF",
+    "EHF",
+    "UHF",
+    "MF"
+  ]
+},
+{
+  "question": "A quale banda appartiene una frequenza di 250 MHz?",
+  "options": [
+    "VHF",
+    "UHF",
+    "HF",
+    "LF"
+  ]
+},
+{
+  "question": "A quale banda appartiene una frequenza di 2.4 GHz?",
+  "options": [
+    "UHF",
+    "SHF",
+    "VHF",
+    "HF"
+  ]
+},
+{
+  "question": "A quale banda appartiene una frequenza di 20 MHz?",
+  "options": [
+    "HF",
+    "MF",
+    "VHF",
+    "UHF"
+  ]
+},
+{
+  "question": "A quale banda appartiene una frequenza di 5 kHz?",
+  "options": [
+    "VLF",
+    "LF",
+    "MF",
+    "HF"
+  ]
+},
+{
+  "question": "A quale banda appartiene una frequenza di 500 kHz?",
+  "options": [
+    "MF",
+    "LF",
+    "HF",
+    "VLF"
+  ]
+},
+{
+  "question": "Cosa significa la sigla VLF?",
+  "options": [
+    "Very Low Frequency",
+    "Very Large Frequency",
+    "Variable Low Frequency",
+    "Voice Low Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla LF?",
+  "options": [
+    "Low Frequency",
+    "Light Frequency",
+    "Long Frequency",
+    "Limited Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla MF?",
+  "options": [
+    "Medium Frequency",
+    "Main Frequency",
+    "Major Frequency",
+    "Mixed Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla HF?",
+  "options": [
+    "High Frequency",
+    "Hyper Frequency",
+    "Huge Frequency",
+    "Harmonic Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla VHF?",
+  "options": [
+    "Very High Frequency",
+    "Variable High Frequency",
+    "Virtual High Frequency",
+    "Vibrant High Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla UHF?",
+  "options": [
+    "Ultra High Frequency",
+    "Universal High Frequency",
+    "Ultimate High Frequency",
+    "Ultra Harmonic Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla SHF?",
+  "options": [
+    "Super High Frequency",
+    "Short High Frequency",
+    "Sharp High Frequency",
+    "Sonic High Frequency"
+  ]
+},
+{
+  "question": "Cosa significa la sigla EHF?",
+  "options": [
+    "Extra High Frequency",
+    "Extreme High Frequency",
+    "Extended High Frequency",
+    "Endless High Frequency"
+  ]
+},
+
+{
+  "question": "In quante Regioni è divisa la Terra per l'assegnazione delle bande di frequenze?",
+  "options": [
+    "Tre Regioni",
+    "Due Regioni",
+    "Cinque Regioni",
+    "Quattro Regioni"
+  ]
+},
+{
+  "question": "A quale Regione appartiene l'Italia per quanto riguarda l'assegnazione delle frequenze radioamatoriali?",
+  "options": [
+    "Regione 1",
+    "Regione 2",
+    "Regione 3",
+    "Regione 4"
+  ]
+},
+{
+  "question": "Una frequenza di 1,9 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "160 metri",
+    "80 metri",
+    "40 metri",
+    "20 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 3,7 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "80 metri",
+    "40 metri",
+    "160 metri",
+    "15 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 7,1 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "40 metri",
+    "20 metri",
+    "10 metri",
+    "6 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 14,2 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "20 metri",
+    "15 metri",
+    "40 metri",
+    "10 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 21,3 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "15 metri",
+    "10 metri",
+    "20 metri",
+    "2 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 28,5 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "10 metri",
+    "15 metri",
+    "20 metri",
+    "6 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 50,5 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "6 metri",
+    "2 metri",
+    "10 metri",
+    "70 centimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 145 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "2 metri",
+    "6 metri",
+    "70 centimetri",
+    "160 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 435 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "70 centimetri",
+    "2 metri",
+    "10 metri",
+    "6 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 1296 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "23 centimetri",
+    "13 centimetri",
+    "70 centimetri",
+    "6 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 2400 MHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "13 centimetri",
+    "23 centimetri",
+    "70 centimetri",
+    "2 metri"
+  ]
+},
+{
+  "question": "Una frequenza di 5,7 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "5 centimetri",
+    "13 centimetri",
+    "23 centimetri",
+    "3 centimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 10,5 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "3 centimetri",
+    "6 centimetri",
+    "13 centimetri",
+    "23 centimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 24 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "1.5 centimetri",
+    "3 centimetri",
+    "6 centimetri",
+    "23 centimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 47 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "7 millimetri",
+    "3 millimetri",
+    "1 centimetro",
+    "6 centimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 76 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "4 millimetri",
+    "6 millimetri",
+    "1 centimetro",
+    "3 centimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 122 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "2,5 millimetri",
+    "4 millimetri",
+    "6 millimetri",
+    "1 centimetro"
+  ]
+},
+{
+  "question": "Una frequenza di 134 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "2 millimetri",
+    "2,5 millimetri",
+    "4 millimetri",
+    "6 millimetri"
+  ]
+},
+{
+  "question": "Una frequenza di 241 GHz appartiene a quale banda radioamatoriale?",
+  "options": [
+    "1 millimetro",
+    "2 millimetri",
+    "2,5 millimetri",
+    "4 millimetri"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 160 metri?",
+  "options": [
+    "1,8 - 2,0 MHz",
+    "3,5 - 3,8 MHz",
+    "7,0 - 7,2 MHz",
+    "14,0 - 14,35 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda degli 80 metri?",
+  "options": [
+    "3,5 - 3,8 MHz",
+    "7,0 - 7,2 MHz",
+    "1,8 - 2,0 MHz",
+    "14,0 - 14,35 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 40 metri?",
+  "options": [
+    "7,0 - 7,2 MHz",
+    "3,5 - 3,8 MHz",
+    "14,0 - 14,35 MHz",
+    "21,0 - 21,45 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 20 metri?",
+  "options": [
+    "14,0 - 14,35 MHz",
+    "7,0 - 7,2 MHz",
+    "3,5 - 3,8 MHz",
+    "21,0 - 21,45 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 15 metri?",
+  "options": [
+    "21,0 - 21,45 MHz",
+    "14,0 - 14,35 MHz",
+    "7,0 - 7,2 MHz",
+    "28,0 - 29,7 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 10 metri?",
+  "options": [
+    "28,0 - 29,7 MHz",
+    "21,0 - 21,45 MHz",
+    "14,0 - 14,35 MHz",
+    "50 - 52 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 6 metri?",
+  "options": [
+    "50 - 52 MHz",
+    "144 - 146 MHz",
+    "430 - 440 MHz",
+    "28,0 - 29,7 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 2 metri?",
+  "options": [
+    "144 - 146 MHz",
+    "50 - 52 MHz",
+    "430 - 440 MHz",
+    "28,0 - 29,7 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 70 centimetri?",
+  "options": [
+    "430 - 440 MHz",
+    "144 - 146 MHz",
+    "50 - 52 MHz",
+    "28,0 - 29,7 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 23 centimetri?",
+  "options": [
+    "1240 - 1300 MHz",
+    "144 - 146 MHz",
+    "50 - 52 MHz",
+    "430 - 440 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 13 centimetri?",
+  "options": [
+    "2300 - 2450 MHz",
+    "1240 - 1300 MHz",
+    "430 - 440 MHz",
+    "28,0 - 29,7 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 6 centimetri?",
+  "options": [
+    "5650 - 5850 MHz",
+    "2300 - 2450 MHz",
+    "1240 - 1300 MHz",
+    "430 - 440 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 3 centimetri?",
+  "options": [
+    "10,0 - 10,5 GHz",
+    "5650 - 5850 MHz",
+    "2300 - 2450 MHz",
+    "1240 - 1300 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda del centimetro?",
+  "options": [
+    "24,0 - 24,25 GHz",
+    "10,0 - 10,5 GHz",
+    "5650 - 5850 MHz",
+    "2300 - 2450 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 6 millimetri?",
+  "options": [
+    "47,0 - 47,2 GHz",
+    "24,0 - 24,25 GHz",
+    "10,0 - 10,5 GHz",
+    "5650 - 5850 MHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 4 millimetri?",
+  "options": [
+    "76,0 - 81,0 GHz",
+    "47,0 - 47,2 GHz",
+    "24,0 - 24,25 GHz",
+    "10,0 - 10,5 GHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 2,5 millimetri?",
+  "options": [
+    "122,25 - 123,0 GHz",
+    "76,0 - 81,0 GHz",
+    "47,0 - 47,2 GHz",
+    "24,0 - 24,25 GHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dei 2 millimetri?",
+  "options": [
+    "134 - 141 GHz",
+    "122,25 - 123,0 GHz",
+    "76,0 - 81,0 GHz",
+    "47,0 - 47,2 GHz"
+  ]
+},
+{
+  "question": "Qual è la frequenza assegnata ai radioamatori per la banda dell'1 millimetro?",
+  "options": [
+    "241 - 250 GHz",
+    "134 - 141 GHz",
+    "122,25 - 123,0 GHz",
+    "76,0 - 81,0 GHz"
+  ]
+},
+
+{
+  "question": "Cosa consente la Raccomandazione T/R 61-01 ai radioamatori?",
+  "options": [
+    "Operare temporaneamente da altri Stati aderenti senza richiedere licenze temporanee",
+    "Ottenere automaticamente una licenza definitiva",
+    "Operare senza alcuna regola in qualsiasi Paese",
+    "Trasmettere senza prefisso internazionale"
+  ]
+},
+{
+  "question": "Nel 2003, cosa ha cambiato la revisione della Raccomandazione T/R 61-01?",
+  "options": [
+    "Ha preso atto dell'abolizione della prova CW e ridotto le classi di licenza da due a una",
+    "Ha esteso l'operatività ai Paesi africani",
+    "Ha richiesto nuove prove di fonia",
+    "Ha imposto limiti severi all'uso delle frequenze"
+  ]
+},
+{
+  "question": "Quanto tempo può operare un radioamatore italiano all'estero grazie alla Licenza CEPT?",
+  "options": [
+    "Circa 3 mesi, a seconda delle amministrazioni",
+    "Indefinitamente senza restrizioni",
+    "Solo 30 giorni",
+    "Fino a 6 mesi senza rinnovo"
+  ]
+},
+{
+  "question": "Cosa bisogna fare quando si trasmette da un altro Paese aderente alla CEPT?",
+  "options": [
+    "Anteporre il prefisso del Paese ospitante al proprio nominativo, separato da una barra '/'",
+    "Usare un nominativo speciale assegnato localmente",
+    "Trasmettere senza indicare il Paese",
+    "Cambiare completamente il proprio indicativo"
+  ]
+},
+{
+  "question": "In quali lingue deve essere redatta la Licenza CEPT?",
+  "options": [
+    "Lingua dell'autorità emettitrice, inglese, francese e tedesco",
+    "Solo inglese",
+    "Italiano e spagnolo",
+    "Francese e spagnolo"
+  ]
+},
+{
+  "question": "Quali Paesi europei NON sono aderenti alla CEPT secondo il testo?",
+  "options": [
+    "Bielorussia, Moldavia, Malta, San Marino, Gibilterra, Andorra e Vaticano",
+    "Italia, Germania, Spagna",
+    "Norvegia, Svezia e Danimarca",
+    "Russia, Ucraina, Finlandia"
+  ]
+},
+{
+  "question": "Quali Stati non europei hanno aderito alla Raccomandazione T/R 61-01?",
+  "options": [
+    "Australia, Canada, Israele, Sudafrica, USA, Nuova Zelanda, Perù e altri",
+    "Giappone, Corea del Sud, Brasile",
+    "Messico, Argentina, Cile",
+    "India, Cina, Vietnam"
+  ]
+},
+{
+  "question": "Quale prefisso deve essere usato per trasmettere dal Texas secondo le regole CEPT-USA?",
+  "options": [
+    "W5",
+    "W2",
+    "W6",
+    "KL7"
+  ]
+},
+{
+  "question": "Quale prefisso deve essere usato per trasmettere dalle Hawaii?",
+  "options": [
+    "KH6",
+    "KL7",
+    "KP4",
+    "W5"
+  ]
+},
+{
+  "question": "Quale prefisso si usa per trasmettere da Porto Rico secondo la Raccomandazione CEPT?",
+  "options": [
+    "KP4",
+    "KH6",
+    "W6",
+    "KL7"
+  ]
+}
+]
+}
+

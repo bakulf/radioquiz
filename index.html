@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Radioamatore</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container" id="quiz-container">
+    <h1>Quiz Radioamatore</h1>
+    <div id="start-screen">
+      <label for="num-questions">Seleziona il numero di domande:</label>
+      <select id="num-questions">
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="30">30</option>
+        <option value="50">50</option>
+        <option value="all">Tutte</option>
+      </select>
+      <button onclick="startQuiz()">Inizia Quiz</button>
+    </div>
+
+    <div id="question-screen" class="hidden">
+      <div id="question-text"></div>
+      <div id="options-container"></div>
+      <button id="next-btn" onclick="nextQuestion()">Prossima Domanda</button>
+      <div id="progress-text" class="progress-text"></div>
+    </div>
+
+    <div id="result-screen" class="hidden">
+      <h2>Risultato</h2>
+      <p id="score-text"></p>
+      <button onclick="location.reload()">Ricomincia</button>
+    </div>
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
+
