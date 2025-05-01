@@ -21,12 +21,17 @@ function shuffle(oldArray) {
 }
 
 async function loadQuestions() {
-  const res = await fetch('questions.json');
+  const bucketSelect = document.getElementById('bucket-select');
+  const file = bucketSelect ? bucketSelect.value : 'questions.json';
+
+  const res = await fetch(file);
   const data = await res.json();
   questions = data.questions;
 }
 
-function startQuiz() {
+async function startQuiz() {
+  await loadQuestions();
+
   const select = document.getElementById('num-questions');
   numberOfQuestions = select.value === 'all' ? questions.length : parseInt(select.value);
   questions = questions.sort(() => Math.random() - 0.5).slice(0, numberOfQuestions);
@@ -98,5 +103,3 @@ function showResults() {
 
   document.getElementById('score-text').innerText = `Hai risposto correttamente a ${correctAnswers} su ${questions.length} domande!`;
 }
-
-loadQuestions();

@@ -1,0 +1,1116 @@
+{
+  "questions": [
+    {
+      "question": "Sul quaderno di stazione (log) è obbligatorio riportare la temperatura misurata nella stanza al momento del collegamento?",
+      "options": [
+        "Non è obbligatorio",
+        "Si', sempre",
+        "Solo in concomitanza a particolari condizioni atmosferiche"
+      ]
+    },
+    {
+      "question": "Se una stazione ha il nominativo col prefisso IN3 da dove trasmette?",
+      "options": [
+        "Dal Trentino - Alto adige",
+        "Dal Friuli - Venezia Giulia",
+        "Dal Veneto"
+      ]
+    },
+    {
+      "question": "Esiste un limite minimo di potenza utilizzabile nei collegamenti fra stazioni amatoriali?",
+      "options": [
+        "No, non c'è alcun limite",
+        "Si'. E' di 10 mW",
+        "Si', è di 5Watt"
+      ]
+    },
+    {
+      "question": "Sul quaderno di stazione (log) è obbligatorio riportare il nome del Radioamatore con cui è fatto QSO?",
+      "options": [
+        "No",
+        "Si', sempre",
+        "Solo se è straniero"
+      ]
+    },
+    {
+      "question": "Sul quaderno di stazione (log) è obbligatorio riportare il rapporto RST ricevuto dal Radioamatore con cui si è fatto QSO?",
+      "options": [
+        "Si', va riportato sempre",
+        "Non c'è necessita' è un dato aggiuntivo",
+        "Solo se non si usa il computer per registrare i dati dei QSO"
+      ]
+    },
+    {
+      "question": "Sul quaderno di stazione (log) è obbligatorio riportare l'orario di termine del QSO o è sufficiente solo quello di inizio?",
+      "options": [
+        "Vanno riportati entrambi, quello di inizio e quello di termine",
+        "No, basta solo quello di inizio",
+        "Basta uno dei due"
+      ]
+    },
+    {
+      "question": "Esiste un numero massimo di QSO giornalieri per una stazione Radioamatore?",
+      "options": [
+        "Non c'è alcuna limitazione",
+        "Si', non si possono fare piu' di 50 QSO al giorno",
+        "Si', non si possono fare piu' di 250 QSO al giorno"
+      ]
+    },
+    {
+      "question": "Esiste una durata massima per un QSO?",
+      "options": [
+        "No",
+        "Si',10 minuti",
+        "Si', nelle bande VHF"
+      ]
+    },
+    {
+      "question": "Il prefisso ZL sta per indicare quale Nazione?",
+      "options": [
+        "Nuova Zelanda",
+        "Gibilterra",
+        "Ucraina"
+      ]
+    },
+    {
+      "question": "Il prefisso JA sta per indicare quale Nazione?",
+      "options": [
+        "Giappone",
+        "Gran Bretagna",
+        "Giamaica"
+      ]
+    },
+    {
+      "question": "Un QSO del tipo EME è consigliabile svolgerlo di giorno di notte?",
+      "options": [
+        "Quando sia visibile la Luna, visto che funge da riflettore",
+        "Di notte soltanto",
+        "Di giorno, la propagazione ionosferica aiuta il segnale a viaggiare meglio"
+      ]
+    },
+    {
+      "question": "Perchè in gamma HF la propagazione notturna è maggiore rispetto a quella diurna?",
+      "options": [
+        "Per la scomparsa durante la notte dello strano ionizzato 'E' e la fusione degli stati F1 e F2",
+        "Perchè i raggi solari impediscono la propagazione",
+        "Perchè la temperatura dell'atmosfera è minore"
+      ]
+    },
+    {
+      "question": "In un QSO EME dove conviene puntare l'antenna?",
+      "options": [
+        "Verso la Luna che funge da riflettore",
+        "Verso l'orizzonte quando sorge la Luna",
+        "Verso il Sole quando sorge la Luna"
+      ]
+    },
+    {
+      "question": "Qual è la banda di frequenza F dei segnali del tipo bluetooth?",
+      "options": [
+        "F=2.4GHz",
+        "F=1GHz",
+        "Dipende dal tipo di bluetooth"
+      ]
+    },
+    {
+      "question": "Qual è la banda di frequenza dei segnali di tipo wireless assegnata per reti di PC?",
+      "options": [
+        "F=2.4GHz",
+        "F=1GHz",
+        "F=1.6GHz"
+      ]
+    },
+    {
+      "question": "Un'ipotetica stazione con nominativo EA5XXX, da dove sta trasmettendo?",
+      "options": [
+        "Spagna",
+        "Estonia",
+        "Irlanda"
+      ]
+    },
+    {
+      "question": "Un'ipotetica stazione con nominativo G3/IK5XXX, da dove sta trasmettendo?",
+      "options": [
+        "Inghilterra",
+        "Toscana",
+        "Lazio"
+      ]
+    },
+    {
+      "question": "Un'ipotetica stazione con nominativo IW5XXX/IS0, da dove sta trasmettendo?",
+      "options": [
+        "Sardegna",
+        "Toscana",
+        "Lazio"
+      ]
+    },
+    {
+      "question": "Un'ipotetica stazione con nominativo IZ7XXX/IB0, da dove sta trasmettendo?",
+      "options": [
+        "Lazio",
+        "Puglia",
+        "Sardegna"
+      ]
+    },
+    {
+      "question": "Qual 'e la regione da cui trasmette una stazione il cui prefisso è ISO0?",
+      "options": [
+        "Sardegna",
+        "Sicilia",
+        "Isole Egadi"
+      ]
+    },
+    {
+      "question": "Qual 'e la regione da cui trasmette una stazione il cui prefisso è IT9?",
+      "options": [
+        "Sicilia",
+        "Sardegna",
+        "Isole Egadi"
+      ]
+    },
+    {
+      "question": "Qual 'e la regione da cui trasmette una stazione il cui prefisso è IB0?",
+      "options": [
+        "Lazio",
+        "Sardegna",
+        "Isole Egadi"
+      ]
+    },
+    {
+      "question": "Qual 'e la regione da cui trasmette una stazione il cui prefisso è IX0?",
+      "options": [
+        "Val d'Osta",
+        "Lazio",
+        "Piemonte"
+      ]
+    },
+    {
+      "question": "Qual 'e il prefisso internazionale assegnato alle stazioni che trasmettono dalla Lombardia?",
+      "options": [
+        "I2-IK2-IZ2-IW2",
+        "I7-IK7-IZ7-IW7",
+        "I5-IK5-IZ5-IW5"
+      ]
+    },
+    {
+      "question": "Qual 'e il prefisso internazionale assegnato alle stazioni che trasmettono dalla Toscana?",
+      "options": [
+        "I5-IK5-IZ5-IW5",
+        "I7-IK7-IZ7-IW7",
+        "I4-IK4-IZ4-IW4"
+      ]
+    },
+    {
+      "question": "In VHF si ha riflessione ionosferica?",
+      "options": [
+        "No",
+        "Solo in estate grazie all'E-sporadico",
+        "Si'"
+      ]
+    },
+    {
+      "question": "In HF si ha riflessione ionosferica?",
+      "options": [
+        "Si'",
+        "Solo in estate grazie all'E-sporadico",
+        "No"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico la lettera C e' indicata con la parola:",
+      "options": [
+        "Charlie",
+        "Canberra",
+        "Canada"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico la lettera A e' indicata con la parola:",
+      "options": [
+        "Alfa",
+        "America",
+        "Ampere"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico la lettera Z e' indicata con la parola:",
+      "options": [
+        "Zulu",
+        "Zara",
+        "Zanzibar"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico la lettera H e' indicata con la parola:",
+      "options": [
+        "Hotel",
+        "Hubble",
+        "Henry"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico la lettera F e' indicata con la parola:",
+      "options": [
+        "Foxtrot",
+        "Farad",
+        "Forrest"
+      ]
+    },
+    {
+      "question": "Una stazione radioamatoriale puo' essere usata da chi non e' titolare di licenza radioamatore?",
+      "options": [
+        "Si, purche' sia in possesso della patente di radio operatore",
+        "No, mai",
+        "Solo in caso di assoluta emergenza"
+      ]
+    },
+    {
+      "question": "Un apparato che trasmette sulla frequenza dei 5 MHz, puo' essere usato da un Radioamatore munito di licenza?",
+      "options": [
+        "No, mai",
+        "Si, ma esclusivamente in caso di emergenza",
+        "Si ma solo trasmettendo in FM"
+      ]
+    },
+    {
+      "question": "Il log su computer puo' sostituire quello cartaceo scritto a penna?",
+      "options": [
+        "No, l'operatore deve comunque compilare quello cartaceo",
+        "Solo in caso di operazioni in portatile",
+        "Si' il computer e' del tutto equivalente al 'quaderno di stazione' quindi ha la stessa validita'"
+      ]
+    },
+    {
+      "question": "Si puo' chiamare su frequenze al di fuori di quelle consentite nelle bande assegnate ai Radioamatori, in caso di emergenza?",
+      "options": [
+        "No, non e' consentito neanche in caso di emergenza",
+        "In caso di emergenza si'",
+        "Solo se non esiste altra possibilita' di comunicare"
+      ]
+    },
+    {
+      "question": "Dato che l'esame di CW non e' piu' obbligatorio, si deve usare tassativamente il computer per trasmettere in questo modo di emissione?",
+      "options": [
+        "Assolutamente no, il computer puo' essere un aiuto, ma non e' obbligatorio",
+        "Si' perche' i messaggi altrimenti sarebbero poco intellegibili dall'operatore che riceve",
+        "Dipende dalla frequenza usata"
+      ]
+    },
+    {
+      "question": "Il termine FSKCW cosa indica?",
+      "options": [
+        "Si tratta di una emissione CW nella quale varia anche la frequenza della portante",
+        "Un paritcolare modo di manipolazione del tasto telegrafico",
+        "La versione moderna del sistema RTTY"
+      ]
+    },
+    {
+      "question": "Il termine QRSS cosa indica?",
+      "options": [
+        "Emissione in CW a velocita' bassissima",
+        "Nel codice Q vuol dire 'Si prega di trasmettere in SSB'",
+        "Nulla perche' non esiste"
+      ]
+    },
+    {
+      "question": "Quando si opera in portatile, e' obbligatorio segnare i QSO sul quaderno di stazione?",
+      "options": [
+        "Si', questo obbligo vige in qualsiasi situazione",
+        "No, perche' la condizione in cui si trova l'operatore e' troppo disagiata",
+        "A piacere"
+      ]
+    },
+    {
+      "question": "Durante un QSO ogni quanto tempo va ripetuto il nominativo?",
+      "options": [
+        "Mediamente ogni 3-4 minuti",
+        "All'inizio ed alla fine del QSO",
+        "Mediamente ogni ora"
+      ]
+    },
+    {
+      "question": "Nei QSO fatti usando i ripetitori in banda VHF, va detto il proprio nominativo?",
+      "options": [
+        "Certamente non cambia nulla rispetto ad un QSO fatto in altra maniera",
+        "No, ci pensa il ripetitore a farlo in modo automatico",
+        "No, questo vale solo nei QSO fatti senza aiuto di ripetitori"
+      ]
+    },
+    {
+      "question": "Nei QSO fatti usando i satelliti in banda UHF, va detto il proprio nominativo?",
+      "options": [
+        "Certamente non cambia nulla rispetto ad un QSO fatto in altra maniera",
+        "No, ci pensa il ripetitore a farlo in modo automatico",
+        "No, questo vale solo nei QSO fatti senza aiuto di ripetitori"
+      ]
+    },
+    {
+      "question": "Durante un QSO va detto il proprio nominativo ad intervalli, oppure basta farlo all'inizio e alla fine?",
+      "options": [
+        "Si', il nominativo va ripetuto ad intervalli regolari",
+        "Va fatto solo se il collegamento e' un DX",
+        "No, non serve ripetere il proprio nominativo"
+      ]
+    },
+    {
+      "question": "Il nominativo di una stazione e' I7XXX/5, cosa significa?",
+      "options": [
+        "Che e' una stazione della zona 7 che opera dalla zona 5",
+        "Che e' una stazione della zona 7 che trasmette usando 5W",
+        "Che e' una stazione della zona 5 che opera in portatile in zona 7"
+      ]
+    },
+    {
+      "question": "Il nominativo di una stazione e' LX0/G3GHR, cosa significa?",
+      "options": [
+        "Che e' una stazione dell'Inghilterra che opera dal Lussemburgo",
+        "Che e' una stazione del Lussemburgo che opera in Inghilterra",
+        "Che e' una stazione abilitata ad operare sia dal Lussemburgo che dall'Inghilterra"
+      ]
+    },
+    {
+      "question": "L'ipotetica stazione IW1XXX potrebbe operare al di sotto dei 30 MHz?",
+      "options": [
+        "Si'",
+        "Si ma con potenza inferiore ai 100 Watt",
+        "No"
+      ]
+    },
+    {
+      "question": "La stazione IK2XXX potrebbe operare oltre ai 150 Mhz?",
+      "options": [
+        "Si'",
+        "Si ma con potenza inferiore ai 20 Watt",
+        "Si ma solo in fonia"
+      ]
+    },
+    {
+      "question": "Una ipotetica stazione giapponese trasmette il proprio nominativo che risulta JA60MK, e' sbagliato dato che ha solo due cifre?",
+      "options": [
+        "No, si tratta di un nominativo speciale",
+        "Si'",
+        "E' senz'altro abusivo"
+      ]
+    },
+    {
+      "question": "L'acronimo NF cosa significa?",
+      "options": [
+        "Noise Figure",
+        "Noise Feedback",
+        "Narrow Filter"
+      ]
+    },
+    {
+      "question": "L'acronimo EME cosa significa?",
+      "options": [
+        "Collegamento fatto usando la Luna come riflettore (Earth Moon Earth)",
+        "Collegamento fatto fra Terra e Satellite (Earth Medium Earth)",
+        "Collegamento fatto fra Terra e Luna (Earth Moon Early)"
+      ]
+    },
+    {
+      "question": "Fra un'emissione in AM e una in FM, quale delle due occupa una banda di frequenze maggiore?",
+      "options": [
+        "L'emissione FM",
+        "L'emissione AM",
+        "Dipende dalla potenza usata per l'emissione"
+      ]
+    },
+    {
+      "question": "Fra un'emissione in AM e una in FSSB, quale delle due presenta una larghezza di banda maggiore?",
+      "options": [
+        "L'emissione AM",
+        "L'emissione SSB",
+        "Dipende dalla potenza usata per l'emissione"
+      ]
+    },
+    {
+      "question": "Fra un'emissione in CW e una in FSSB, quale delle due occupa una banda di frequenze minore?",
+      "options": [
+        "L'emissione SSB",
+        "L'emissione CW",
+        "Non vi e' differenza"
+      ]
+    },
+    {
+      "question": "La parola FM indica:",
+      "options": [
+        "La modulazione di frequenza",
+        "Media Frequenza",
+        "La frequenza di modulazione che si occupa su un canale"
+      ]
+    },
+    {
+      "question": "Il termine QRP indica:",
+      "options": [
+        "Una stazione che opera usando bassa potenza",
+        "Una stazione che opera in portatile",
+        "Una stazione che opera in telegrafia"
+      ]
+    },
+    {
+      "question": "Nel codice Q cosa significa il termine QTC",
+      "options": [
+        "Hai un messaggio?",
+        "L'ora locale della propria posizione geografica rispetto a quella di Greenwich",
+        "Da dove stai trasmettendo?"
+      ]
+    },
+    {
+      "question": "QTH nel codice Q e' sinonimo di:",
+      "options": [
+        "Localita' da cui trasmette",
+        "Abbassamento di potenza",
+        "Cambio di frequenza"
+      ]
+    },
+    {
+      "question": "QSY nel codice Q e' sinonimo di:",
+      "options": [
+        "Cambio di frequenza",
+        "Localita' da cui trasmette",
+        "Innalzamento di potenza"
+      ]
+    },
+    {
+      "question": "La gamma radioamatoriale dei 160m da cosa e' principalmente caratterizzata?",
+      "options": [
+        "Risente fortemtne dell'assorbimento diurno dello strato D della ionosfera",
+        "E' quasi immune dai disturbi atmosferici",
+        "E' paritcolarmente adatta ai collegament DX diurni"
+      ]
+    },
+    {
+      "question": "Qual e' una della bande maggiori, tra quelle elencate, da utilizzare per collegamenti a lunga distanza sia di giorni che di notte?",
+      "options": [
+        "Quella dei 20m (14 MHz)",
+        "Quella dei 10m (28 MHz)",
+        "Quella degli 80m (3.5 MHz)"
+      ]
+    },
+    {
+      "question": "Quali tra queste vengono definite 'onde di terra' a causa del loro tipo di propagazione?",
+      "options": [
+        "Onde Lunghe",
+        "Onde Corte",
+        "Onde Medie"
+      ]
+    },
+    {
+      "question": "Il termine inglese 'fading' cosa significa?",
+      "options": [
+        "Affievolimento o evanescenza del segnale",
+        "Distorsione del segnale",
+        "Propagazione nulla"
+      ]
+    },
+    {
+      "question": "L'acronimo S.H.F. cosa significa?",
+      "options": [
+        "Super High Frequency",
+        "Slow High Frequency",
+        "Short High Frequency"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico internazionale la lettera D a cosa corrisponde?",
+      "options": [
+        "Delta",
+        "Domodossola",
+        "Danimarca"
+      ]
+    },
+    {
+      "question": "Nell'alfabeto fonetico internazionale la lettera C a cosa corrisponde?",
+      "options": [
+        "Charlie",
+        "Como",
+        "Catodo"
+      ]
+    },
+    {
+      "question": "Che cosa significa l'acronimo CW?",
+      "options": [
+        "Continuous Wave",
+        "Current Wave",
+        "Calling Wave"
+      ]
+    },
+    {
+      "question": "Nel codice 'Q' qual e' il significato del termine QRM?",
+      "options": [
+        "Disturbi di origine diversa da quella naturale",
+        "Il nominato della stazione trasmittente",
+        "Il nominato della stazione ricevente"
+      ]
+    },
+    {
+      "question": "E' possibile trasmettere con una potenza superiore ai 500 Watt?",
+      "options": [
+        "No",
+        "Si'",
+        "Solo in caso di emergenza"
+      ]
+    },
+    {
+      "question": "Le emissioni in CW sono soggette ad alcune limitazioni?",
+      "options": [
+        "No, non c'e' alcuna limitazione",
+        "Si' non possono essere emesse sopra i 2.5GHz",
+        "Dipende dal tipo di licenza"
+      ]
+    },
+    {
+      "question": "Il termine QSL cosa significa?",
+      "options": [
+        "Confermo di aver ricevuto",
+        "Posso cominciare?",
+        "Devo spostarmi di frequenza?"
+      ]
+    },
+    {
+      "question": "'SDR' e' un acronimo in lingua inglese e significa:",
+      "options": [
+        "Apparato Software Defined Radio",
+        "Apparato Software Dynamic Receiver",
+        "Apparato Software Defined Receiver"
+      ]
+    },
+    {
+      "question": "Nel codice 'Q' se vogliamo chiedere: 'Siete Pronto?' quale termine dobbiamo usare?",
+      "options": [
+        "QRV",
+        "QRO",
+        "QRZ"
+      ]
+    },
+    {
+      "question": "Il DXCC e':",
+      "options": [
+        "Un diploma internazionale",
+        "Un accessorio della stazione radio",
+        "Un contest internazionale"
+      ]
+    },
+    {
+      "question": "Un dipolo a mezz'onda per la frequenza di 10MHz deve avere ogni braccio lungo circa:",
+      "options": [
+        "15 m",
+        "10 m",
+        "7.5 m"
+      ]
+    },
+    {
+      "question": "Alla frequenza di 10GHz corrisponde una lunghezza d'onda pari a circa:",
+      "options": [
+        "3 cm",
+        "3 m",
+        "1 m"
+      ]
+    },
+    {
+      "question": "La frequenza di 2.5GHz e' da considerarsi fra le:",
+      "options": [
+        "Microonde",
+        "Onde media",
+        "Onde corte"
+      ]
+    },
+    {
+      "question": "L'onda spaziale e' tipica dei collegamenti:",
+      "options": [
+        "Possibili grazie alla propagazione mediante riflessione ionosferica",
+        "Possibili mediante alle cosidette 'onde di terra'",
+        "Possibili solo se le stazioni si trovano in portata ottica"
+      ]
+    },
+    {
+      "question": "Un segnale a 950kHZ di frequenza e' da ritenersi nel campo delle:",
+      "options": [
+        "Onde medie",
+        "Onde cortissime",
+        "Onde lunghe"
+      ]
+    },
+    {
+      "question": "Un segnale a 432MHZ e' nel campo delle:",
+      "options": [
+        "UHF",
+        "HF",
+        "SHF"
+      ]
+    },
+    {
+      "question": "Un segnale a 14MHZ e' nel campo delle:",
+      "options": [
+        "HF",
+        "UHF",
+        "SHF"
+      ]
+    },
+    {
+      "question": "Un segnale di frequenza f=144MHz e' nel campo delle:",
+      "options": [
+        "VHF",
+        "UHF",
+        "HF"
+      ]
+    },
+    {
+      "question": "Il termine 'CQ' cosa significa?",
+      "options": [
+        "Chiamata generale",
+        "Frequenza occupata",
+        "Chiamata per DX"
+      ]
+    },
+    {
+      "question": "Ad una frequenza di 50MHz corrisponde una lunghezza d'onda pari a:",
+      "options": [
+        "6m",
+        "3m",
+        "2cm"
+      ]
+    },
+    {
+      "question": "Ad una lunghezza d'onda di 160m corrisponde una frequenza di:",
+      "options": [
+        "1.8MHz",
+        "16MHz",
+        "3.5MHz"
+      ]
+    },
+    {
+      "question": "Ad una frequenza f di 432 MHz corrisponde una lunghezza d'onda pari a:",
+      "options": [
+        "0.7m",
+        "2m",
+        "1cm"
+      ]
+    },
+    {
+      "question": "Volendo realizzare un collegamento grazie alla riflessione ionosferica, quale delle seguenti frequenze risultera' idonea allo scopo?",
+      "options": [
+        "10MHz",
+        "1GHz",
+        "100MHz"
+      ]
+    },
+    {
+      "question": "Per Basse Frequence in generale si intendono:",
+      "options": [
+        "Le frequenze al di sotto dei 200kHz",
+        "Le frequence dei segnali ridotti in ampiezza",
+        "Le frequence fra 1MHz e 10MHz"
+      ]
+    },
+    {
+      "question": "C'e' un limite di potenza ai trasmettitori per radioamatori?",
+      "options": [
+        "Si' ed e' di 500W",
+        "Si' ed e' di 1000W",
+        "No, purche' la tramissione avvenga in AM"
+      ]
+    },
+    {
+      "question": "Per modulare in modalita' SSB si intende:",
+      "options": [
+        "Emissione in Banda Laterale Unica",
+        "Emissione in modulazione di base",
+        "Emissione in Banda Digitale Unica"
+      ]
+    },
+    {
+      "question": "Con il termine 'CW' cosa si intende?",
+      "options": [
+        "Che tramettiamo in telegrafia",
+        "Che la nostra modulazione e' di tipo digitale",
+        "Che stiamo trasmettendo con oltre 500 Watt"
+      ]
+    },
+    {
+      "question": "Un segnale in USB:",
+      "options": [
+        "E' un segnale in SSB che sfrutta la banda laterale superiore",
+        "Ha una frequenza inferiore rispetto a quella di sintonia del ricevitore",
+        "Non ha frequenza perche' la portante e' soppressa e non viene trasmessa"
+      ]
+    },
+    {
+      "question": "Col termine 'DX' si intende:",
+      "options": [
+        "Collegamento a grande distanza",
+        "Collegamento effettuato grazie ad un trasmettitore a bassa potenza",
+        "Collegamento attraverso trasmissione dati digitali"
+      ]
+    },
+    {
+      "question": "Col termine 'QSB' si intende:",
+      "options": [
+        "L'Effetto evanescenza detto anche 'fading' che subisce il segnale",
+        "Il rumore di fondo che si ascolta nel ricevitore anche in assenza di trasmissioni",
+        "Lo spostamento di frequenza del trasmettitore"
+      ]
+    },
+    {
+      "question": "Il DXCC e' un diploma che richiede come regola basilare:",
+      "options": [
+        "Di collegare stazioni di tutto il mondo",
+        "Di collegare solo stazioni estere",
+        "Di usare solo la telegrafia nei collegamenti"
+      ]
+    },
+    {
+      "question": "Un segnale elettrico caratterizato da una frequenza di 100.000kHz viene considerato:",
+      "options": [
+        "Un segnale a radiofrequenza",
+        "Un segnale audio",
+        "Un segnale di disturbo"
+      ]
+    },
+    {
+      "question": "I segnali a frequenza di 30.000MHz:",
+      "options": [
+        "Sono da considerarsi nel campo delle microonde",
+        "Non sono da considerarsi nel campo delle microonde",
+        "Sono da considerarsi a frequenza intermedia"
+      ]
+    },
+    {
+      "question": "QSO 2 x CB significa:",
+      "options": [
+        "Collegamento in cui entrambi i corrispondenti hanno usato la CW",
+        "Collegamento in cui i corrispondenti erano due",
+        "Collegamento effettuato con una potenza di 2 W e modo di emissione CW"
+      ]
+    },
+    {
+      "question": "QSO 2 x SSB significa:",
+      "options": [
+        "Collegamento in cui entrambi i corrispondenti hanno usato la SSB",
+        "Collegamento in cui i corrispondenti erano due",
+        "Collegamento effettuato con una potenza di 2 W e modo di emissione SSB"
+      ]
+    },
+    {
+      "question": "Si puo' usare l'SSB nella banda dei 50 MHz",
+      "options": [
+        "Si",
+        "No, e' ammesso solo la FM",
+        "Solo in caso d'emergenza"
+      ]
+    },
+    {
+      "question": "Nella banda dei 10 MHz si puo' trasmettere in SSB:",
+      "options": [
+        "No, si usa solo CW, RTTY, PSK",
+        "No, e' ammesso solo in caso di emergenza normalmente si usa la FM",
+        "Si"
+      ]
+    },
+    {
+      "question": "Tramissione in QRP:",
+      "options": [
+        "Significa tramissione con bassa potenza (al massimo 5Watt)",
+        "Significa trasmettere in CW ad alta velocita'",
+        "Significa trasmettere in CW a bassa velpcita'"
+      ]
+    },
+    {
+      "question": "Si puo' trasmettere in FM sulla banda dei 14MHz?",
+      "options": [
+        "Non e' consentito",
+        "Solo in caso di emergenza",
+        "Si', ma cono potenze inferiori ai 100 Watt"
+      ]
+    },
+    {
+      "question": "Si puo' trasmettere in FM a 28.1 MHz?",
+      "options": [
+        "No, mai",
+        "Si ma a bassa potenza (entro i 100 mW)",
+        "Solo in caso di emergenza"
+      ]
+    },
+    {
+      "question": "L'acronimo anglosassone USB vuole dire in italiano:",
+      "options": [
+        "Banda laterale superiore",
+        "Banda laterale unica",
+        "Banda laterale inferiore"
+      ]
+    },
+    {
+      "question": "In un trasmettitore, LSB significa:",
+      "options": [
+        "Banda laterale inferiore",
+        "Banda laterale",
+        "Banda laterale seriale"
+      ]
+    },
+    {
+      "question": "USB significa:",
+      "options": [
+        "Upper Side Band",
+        "Upper Signal Processor",
+        "Undefined Signal Processor"
+      ]
+    },
+    {
+      "question": "L'emissione in CW significa che il segnale e' modulato in:",
+      "options": [
+        "Telegrafia",
+        "Ampiezza e impulsi",
+        "Ampiezza telegrafica"
+      ]
+    },
+    {
+      "question": "SSB significa:",
+      "options": [
+        "Single Side Band",
+        "Singla Side Buffer",
+        "Single Side Buffer"
+      ]
+    },
+    {
+      "question": "Chiedere di operare in QRP:",
+      "options": [
+        "Vuoi dire trasmettere con bassa potenza (ad es. 5W in CW)",
+        "Vuoi dire chiedere al corrispondende di abbassare la sua potenza perche' ci da fastidio",
+        "Vuoi dire ridurre la potenza per non disturbare i QSO su frequenze adiacenti"
+      ]
+    },
+    {
+      "question": "Se una stazione effettua una chiamata generale su frequenza adiacente a quella dove stiamo gia effettuando un QSO:",
+      "options": [
+        "Aumentiamo la potenza del nostro TX per farci sentire meglio",
+        "Chiediamo gentilmente all'OM che ci disturba di diminuire la sua potenza o fare QSY",
+        "Andiamo su quella frequenza aumentando la potenza e facciamo smettere il disturbo"
+      ]
+    },
+    {
+      "question": "Se abbiamo un 'appuntamento' in radio con un OM amico e la frequenza concordata e' gia' occupata:",
+      "options": [
+        "attendiamo la fine del QSO o chiediamo, ringraziando per la disponibilita', se possiamo chiamare l'amico per spostarci su di un'altra frequenza non occupata",
+        "Chiediamo a chi occupa il canale di fare QSY perche' abbiamo precedenza",
+        "Aumentiamo la potenza e chiamiamo il nostro amico su quella stessa frequenza"
+      ]
+    },
+    {
+      "question": "Se in CW una stazione ci chiama trasmettendo a bassa velocita':",
+      "options": [
+        "Rallentiamo la manipolazione adeguandoci alla sua velocita' per cortesia verso di lei",
+        "Le rispondiamo chiedendole di aumentare la velocita' di manipolazione",
+        "Non le rispondiamo perche' e' troppo lenta di manipolazione"
+      ]
+    },
+    {
+      "question": "Il quaderno di stazione:",
+      "options": [
+        "Va aggiornato in tempo reale e tenuto in ordine",
+        "Va aggiornato una volta al mese",
+        "Va tenuto con attenzione in quanto conteine appunti tecnici interessanti"
+      ]
+    },
+    {
+      "question": "Quando si effettua una 'chiamata generale' (CQ) cosa dobbiamo fare?",
+      "options": [
+        "Accertarsi per prima cosa che la frequenza scelta sia lbera, ascoltando per alcuni minuti",
+        "Si puo' sempre chiamare purche' la potenza sia sufficiente elevata",
+        "Se abbiamo la Licenza di OM da oltre 5 anni possiamo chiamare senza preoccupaci di nulla"
+      ]
+    },
+    {
+      "question": "Operando in CW:",
+      "options": [
+        "E' bene usare le porzioni di banda dedicate al CW",
+        "Chiediamo alla stazioni SSB di cambiare frequenza",
+        "Possiamo trasmettere su tutte le frequenze non adibite alle emissioni SSB"
+      ]
+    },
+    {
+      "question": "Operare in telegrafia (CW):",
+      "options": [
+        "Permette con minore potenza di realizzare anche collegamenti DX",
+        "Necessita di grandi potenze per realizare dei collegamenti",
+        "Comporta l'uso dei computer per demodulare il segnale"
+      ]
+    },
+    {
+      "question": "In cosa differiscono principalmente SSB e CW?",
+      "options": [
+        "La larghezza di banda del segnale emesso in SSB e' inferiore in CW",
+        "La larghezza di banda del sengale emesso in SSB e' superriore in CW",
+        "Le apparecchiature usate per SSB sono piu' semplici di quelle per CW"
+      ]
+    },
+    {
+      "question": "Per operare in CW e' necessario:",
+      "options": [
+        "Conoscere il codice morse ed avere un tasto (Key)",
+        "Avere conseguito un'apposita licenza",
+        "Un computer collegato all'apparato ed un software apposito"
+      ]
+    },
+    {
+      "question": "La stazione ricetrasmittente va operarata solo da persone in possesso della 'patente' per OM:",
+      "options": [
+        "In presenza di concessione all'esercizio della stessa, data dal Ministero delle Comunicazioni",
+        "Purche' abbia fatto un periodo di pratica di 3 anni",
+        "Purche' si operi in CW per i primi 6 mesi"
+      ]
+    },
+    {
+      "question": "Durante un collegamento fra due stazioni OM:",
+      "options": [
+        "Il nominativo va trasmesso ripetutamente ad intervalli di tempo regolari",
+        "Il nominativo va trasmesso solo all'inizio",
+        "Il nominativo va trasmesso solo nei collegamenti internazionali"
+      ]
+    },
+    {
+      "question": "Lo spelling del proprio nominativo:",
+      "options": [
+        "Va fatto per migliorare la compresibilita' da parte del nostro corrispondente",
+        "Va fatto obbligatoriamente perche' prescirtto dalla legge",
+        "Deve essere fatto ma solo in lingua inglese essendo una lingua internazionale"
+      ]
+    },
+    {
+      "question": "Il rapporto RS/RST che si fornisce al corrispondente:",
+      "options": [
+        "Serve ad indicare il grado di comprensibilita' e l'interessita' del segnale che riceviamo",
+        "Indica i dati sulla potenza del nostro impianto",
+        "Indica l'ora di inizio e fine del QSO"
+      ]
+    },
+    {
+      "question": "Nei collegamenti mediante i 'modi digitali':",
+      "options": [
+        "Serve collegare un computer al ricetrasmettitore ed un software adeguato",
+        "Basta conoscere l'inglese e il codice morse",
+        "Bast aavere un taso simile a quello del CW"
+      ]
+    },
+    {
+      "question": "Un pile-up si definisce come:",
+      "options": [
+        "Una situazione in cui molte stazioni chiamano la stessa stazione specie nei DX",
+        "Una staznione in cui molte stazioni parlano la stessa lingua",
+        "Una situazione in cui due stazionie si chiamano sulla medesima frequenza"
+      ]
+    },
+    {
+      "question": "Una stazione radiomaatoriale:",
+      "options": [
+        "Puo' operare esclusivmanete sulle bande assegnateed adibite alServizio d'Amatore",
+        "Puo' operare su tutte le frequence a seconda della circostanze",
+        "Opera prevalentamente sulle bande assegnate al servizio d'amatore ma non sempre"
+      ]
+    },
+    {
+      "question": "Quale deve essere la lunghezza totale di un dipolo a 1/4 d'onda adatto ad una frequenza di emissione di 144MHz?",
+      "options": [
+        "1 metro",
+        "2 metri",
+        "1.5 metri"
+      ]
+    },
+    {
+      "question": "Il cosiddetto 'quaderno di stazione':",
+      "options": [
+        "Serve per registrare i dati dei QSO che si fanno di volta in volta",
+        "Serve per scrivere gli indirizzi email dei radioamatori che si collegano di volta in volta",
+        "E' un quaderno che ogni Radioamatore dovrebbe avere per i proprio appunti"
+      ]
+    },
+    {
+      "question": "La direttiva europea sulla 'compatibilita' elettromagnetica' e' la:",
+      "options": [
+        "2004/108/CE",
+        "73/239/CEE",
+        "88/357/CEE"
+      ]
+    },
+    {
+      "question": "I sistemi di alimentazioni delle apparecchiature radioelettriche delle stazioni radioamatoriali devono rispondere alle norme previste relativemente agli impianti di distribuzione dell'energia elettrica, alla protezione contro i contatti accidentali ed alla messa a terra: tali normi sono, ad oggi, inquadrabili nella:",
+      "options": [
+        "Legge 46/90",
+        "Legge 791/77",
+        "Legge 186/68"
+      ]
+    },
+    {
+      "question": "Le frequenze in gamma VHF (Very High Frequency) sono di valore piu' alto o piu' basso di quelle che si trovano nellagamma definita UHF (Ultra High Frequencey):",
+      "options": [
+        "Piu' basse",
+        "Piu' alte",
+        "Dipende dalla propagazione in un dato momento della giornata e dell'anno"
+      ]
+    },
+    {
+      "question": "Quante emittenti in AM a doppia banda laterale, possono essere comprese in una banda di 12 MHz, se ogni stazione trasmette un segnale modulato da un audio segnale di frequenza massima 4 kHz?",
+      "options": [
+        "1500 emittenti",
+        "150 emittenti",
+        "3000 emittenti"
+      ]
+    },
+    {
+      "question": "Quale per le tre gamme di frequenze il collegamento ottico deve essere garantino?",
+      "options": [
+        "SHF",
+        "VHF",
+        "HF"
+      ]
+    },
+    {
+      "question": "La banda MF rientra tra le frequenze:",
+      "options": [
+        "300-3000 kHz",
+        "3-30 kHz",
+        "30-300 kHz"
+      ]
+    },
+    {
+      "question": "La banda LF rientra tra le frequenze:",
+      "options": [
+        "3-30 kHz",
+        "300-3000 kHz",
+        "30-300 kHz"
+      ]
+    },
+    {
+      "question": "La banda HF rientra tra le frequenze:",
+      "options": [
+        "3-30 MHz",
+        "300-3000 MHz",
+        "30-300 MHz"
+      ]
+    },
+    {
+      "question": "La banda VHF (Very High Frequency) e' circoscritta entro:",
+      "options": [
+        "30-300 MHz",
+        "3-30 MHz",
+        "300-3000 MHz"
+      ]
+    },
+    {
+      "question": "La banda UHF (Ultra High Frequency) e' circoscritta entro:",
+      "options": [
+        "300-3000 MHz",
+        "30-300 MHz",
+        "3-30 MHz"
+      ]
+    },
+    {
+      "question": "La banda SHF (Super High Frequency) e' circoscritta entro:",
+      "options": [
+        "3-30 MHz",
+        "300-3000 MHz",
+        "30-300 MHz"
+      ]
+    }
+  ]
+}
